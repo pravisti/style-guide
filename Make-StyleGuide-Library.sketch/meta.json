@@ -4,23 +4,26 @@
 "62993342-E91E-43C9-B9F0-9AE24D1A4A0E" : {
 "name" : "Style Guide  V3",
 "artboards" : {
+"3B9654BF-8359-4FEA-A8CB-537DE3FD0BDB" : {
+"name" : "Templates "
+},
 "255207A4-D7D8-40EA-8686-8E76A4A465AB" : {
 "name" : "Components  "
 },
-"06235BD9-FA5D-4941-9150-630A1D975E4F" : {
-"name" : "Form Elements "
+"C78D3637-D4E1-4848-A2E3-4C13C84B2021" : {
+"name" : "Artboard"
 },
 "885DC96D-D29B-404E-96DD-37B380AEA0C6" : {
 "name" : "Base Elements "
 },
-"D73BCFDA-ECDB-43E5-8D5A-5969D2B9A21E" : {
-"name" : "Overview"
-},
 "0F9937F7-377B-4F20-9F2D-FCEC65776C94" : {
 "name" : "Foundation "
 },
-"3B9654BF-8359-4FEA-A8CB-537DE3FD0BDB" : {
-"name" : "Templates "
+"06235BD9-FA5D-4941-9150-630A1D975E4F" : {
+"name" : "Form Elements "
+},
+"D73BCFDA-ECDB-43E5-8D5A-5969D2B9A21E" : {
+"name" : "Overview"
 }
 }
 },
@@ -95,6 +98,9 @@
 },
 "263391BB-CA75-437B-B446-8136CFDCDB08" : {
 "name" : "color\/@button-red"
+},
+"E7FBB13A-0902-4449-94FD-F3D04EF985D2" : {
+"name" : "Button\/@small-outlined-red"
 },
 "F450E513-08B9-4E43-B694-9813341C7B24" : {
 "name" : "Progress-bar\/@red"
@@ -173,9 +179,6 @@
 },
 "30AEA953-EB1F-4239-8B34-E0E697DB4757" : {
 "name" : "color\/@footer-dark-blue"
-},
-"263B1A93-DB6C-4D4E-A42E-7250B2204ACA" : {
-"name" : "Button\/@Red-NoBG"
 },
 "4A96F048-3908-472B-9D97-A73A3F3D3232" : {
 "name" : "Navigation-bar\/@styleguide"
