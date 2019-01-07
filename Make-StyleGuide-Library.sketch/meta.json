@@ -1,0 +1,254 @@
+{
+"commit" : "ebc3e0ead0906f5810891944454a71b877934b56",
+"build" : 67469,
+"version" : 112,
+"fonts" : [
+"FontAwesome",
+"Helvetica-Light",
+"HelveticaNeue",
+"Roboto-Light",
+"Roboto-Regular",
+"material",
+"Roboto-Medium",
+"Linearicons"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 1,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "ebc3e0ead0906f5810891944454a71b877934b56",
+"appVersion" : "52.5",
+"build" : 67469,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 112,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.67469"
+],
+"appVersion" : "52.5",
+"pagesAndArtboards" : {
+"62993342-E91E-43C9-B9F0-9AE24D1A4A0E" : {
+"name" : "Style Guide  V3",
+"artboards" : {
+"255207A4-D7D8-40EA-8686-8E76A4A465AB" : {
+"name" : "Components  "
+},
+"D73BCFDA-ECDB-43E5-8D5A-5969D2B9A21E" : {
+"name" : "Overview"
+},
+"06235BD9-FA5D-4941-9150-630A1D975E4F" : {
+"name" : "Form Elements "
+},
+"0F9937F7-377B-4F20-9F2D-FCEC65776C94" : {
+"name" : "Foundation "
+},
+"885DC96D-D29B-404E-96DD-37B380AEA0C6" : {
+"name" : "Base Elements "
+},
+"3B9654BF-8359-4FEA-A8CB-537DE3FD0BDB" : {
+"name" : "Templates "
+}
+}
+},
+"E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73" : {
+"name" : "Symbols",
+"artboards" : {
+"43D1DE55-3E80-4AB4-B452-39B2781A68ED" : {
+"name" : "Icon\/@chevron-up"
+},
+"0422DB39-ADC3-44B7-91E5-4244F9B3AFC9" : {
+"name" : "color\/@background-blue-two"
+},
+"56ABEDD0-AE57-4908-8493-4BE3D4754720" : {
+"name" : "Icon\/@instagram"
+},
+"5593B2F0-AD0C-4B0A-8E72-69D5699D3CB3" : {
+"name" : "Icon\/@youtube"
+},
+"5E120659-7617-42E4-9869-5BE3C2907C9C" : {
+"name" : "Icon\/@cross"
+},
+"0DACF225-2B76-4F86-8269-AAC348C8FAF5" : {
+"name" : "Button\/@Red-Small "
+},
+"C0A1E616-F500-4FF9-87D4-F15F9325A117" : {
+"name" : "Alert\/@red-bar"
+},
+"57639980-6533-4668-8825-D6C705E1F4C3" : {
+"name" : "Icon\/@search"
+},
+"0ED309DF-F380-475C-BBFB-68B7791404EE" : {
+"name" : "Icon\/@download"
+},
+"C20D187B-2044-422F-8280-179727FEC4A8" : {
+"name" : "Button\/@radio-off"
+},
+"08FBC5BB-1979-41AB-8084-0DF4229E1CA8" : {
+"name" : "Button\/@Blue-Small"
+},
+"B6D46E72-97B7-4D10-A342-3025C7EEDDDC" : {
+"name" : "Button\/@Red-Medium"
+},
+"8B95FBC2-F5CD-4302-8948-96547A0545E2" : {
+"name" : "Card\/@default-small"
+},
+"198FAC4E-AF5E-41E1-9F4F-BDCEC5E7E8AD" : {
+"name" : "Button\/@tall-outlined-white"
+},
+"A566354C-8C20-411F-8E4C-9F413B8780B3" : {
+"name" : "Alert\/@orange-bar"
+},
+"6B3A5892-44A8-483D-AE5C-2B073EC9F7B8" : {
+"name" : "color\/@text-green"
+},
+"3DA48A72-AC31-4A96-89E4-8A0236E6BCEF" : {
+"name" : "color\/@background-darkblue"
+},
+"8C9A1C3C-F130-4704-A0F1-7300607C1347" : {
+"name" : "Checkbox\/@with-check"
+},
+"6345CDAF-0BC6-405E-8EB8-EDBE982781CE" : {
+"name" : "color\/@footer-gray"
+},
+"87C88193-91F1-4BE1-A9D7-21901351CDD9" : {
+"name" : "Button\/@radio-on"
+},
+"869BE0E3-90A6-4DAF-B839-B5D4CC8B0759" : {
+"name" : "color\/@background-red"
+},
+"F450E513-08B9-4E43-B694-9813341C7B24" : {
+"name" : "Progress-bar\/@red"
+},
+"A45AC9AA-D579-4771-AA8E-BD37C23BFE6A" : {
+"name" : "color\/@background-orange"
+},
+"263391BB-CA75-437B-B446-8136CFDCDB08" : {
+"name" : "color\/@button-red"
+},
+"BC183D2A-4A32-45CB-A274-CE7FE5817CD2" : {
+"name" : "color\/@button-blue"
+},
+"911C5327-D1D2-4A54-BEDB-39E3C4ED4EB9" : {
+"name" : "color\/@text-gray"
+},
+"16013E68-A00A-40AB-84CF-9F5DF9771E27" : {
+"name" : "Card\/@default "
+},
+"07C8C00E-42B2-4F4E-AACD-4E0D3A52EBD0" : {
+"name" : "Icon\/@menu"
+},
+"A2081D88-EF06-4C6B-AA03-D98A814B9D9A" : {
+"name" : "Button\/@White-NoBG"
+},
+"C10E9431-D9BD-4ABE-9D8B-47087D7E91F6" : {
+"name" : "color\/@text-blue"
+},
+"A60616A2-D925-405D-94B7-2D416B808293" : {
+"name" : "Alert\/@green-bar"
+},
+"9873D632-B6A6-4263-BEC0-4B64CC52DC6D" : {
+"name" : "Icon\/@chevron-down"
+},
+"0C58C4C6-63FB-4F7E-B6D0-757F8C82465F" : {
+"name" : "Grey rectangle for list"
+},
+"417AF502-8A62-44E2-8225-D6AE06FE28EE" : {
+"name" : "Button\/@Blue-NoBG "
+},
+"182905F1-7F43-425D-A8E4-13ED07ED0E81" : {
+"name" : "color\/@background-dark-teal"
+},
+"0E4F94C0-4936-42E9-9611-7D3384AF08A6" : {
+"name" : "Button\/@Blue-Medium"
+},
+"D553BA83-D6C0-4C59-A903-89F74F91CDE1" : {
+"name" : "Icon\/@print"
+},
+"099A7B81-9659-4AF0-B194-4A074462AA7F" : {
+"name" : "Icon\/@instagram-color"
+},
+"80519CB6-6DE3-462A-BF54-54B2120427E8" : {
+"name" : "Navigation-bar\/@left-generic"
+},
+"1787802C-BCAD-43BD-909B-EC2992D0D07E" : {
+"name" : "Icon\/@chevron-left"
+},
+"F407EB67-7902-44DB-9A44-99ED859B8817" : {
+"name" : "Alert\/@success-text"
+},
+"15B19474-E4A6-49D2-ABEC-F96DE3DC090B" : {
+"name" : "Icon\/@check"
+},
+"8D328FE2-7274-47BB-98BD-1389FAD919A3" : {
+"name" : "Icon\/@chevron-right"
+},
+"136061AA-85A1-4561-A58C-A6C5F8AF4D0C" : {
+"name" : "Button\/@tall-blue"
+},
+"C939CD15-E04F-4AC9-8A17-2ACDFC341989" : {
+"name" : "Icon\/@facebook-color"
+},
+"78184DC7-9E62-486E-A5F5-4C3C68137C9E" : {
+"name" : "Checkbox\/@without-check"
+},
+"C80B3A02-BACD-4F0D-9115-C9684C7D7B3A" : {
+"name" : "Icon\/@facebook"
+},
+"B8EBF479-F760-4291-90AA-52D5E7A2BFEC" : {
+"name" : "press-center-left-nav-mobile"
+},
+"30AEA953-EB1F-4239-8B34-E0E697DB4757" : {
+"name" : "color\/@footer-dark-blue"
+},
+"4A96F048-3908-472B-9D97-A73A3F3D3232" : {
+"name" : "Navigation-bar\/@styleguide"
+},
+"263B1A93-DB6C-4D4E-A42E-7250B2204ACA" : {
+"name" : "Button\/@Red-NoBG"
+},
+"CED73126-35BA-42C8-941C-8DEC188D8BAC" : {
+"name" : "Icon\/@twitter-color"
+},
+"B080BEDA-331A-4D18-B828-9B87545AA0C9" : {
+"name" : "color\/@footer-light-blue"
+},
+"FA4571D6-6309-4D56-9A5F-B3FC3B957DFF" : {
+"name" : "Label\/@red"
+},
+"20F7E202-5742-4785-A97C-0E14AB077B2C" : {
+"name" : "Button\/@Blue-Large"
+},
+"F2281B38-F4B5-4716-9D2A-D4A6AE3A6AEE" : {
+"name" : "Icon\/@twitter"
+},
+"37050EC4-EEED-4084-B466-55FE6413071D" : {
+"name" : "color\/@background-lightblue"
+},
+"DB81AC88-EB84-46FD-899A-3ED165BE902C" : {
+"name" : "Label\/@red-icon"
+},
+"2FD6598C-FDDE-4F91-914A-E3065A4015B4" : {
+"name" : "Alert\/@warning-text"
+},
+"60E7AEAD-1B1F-4C54-916A-6AC287129F69" : {
+"name" : "Pagination-bar"
+},
+"BC1ECD3C-9B4C-4AFF-82EF-81D7D57EB03E" : {
+"name" : "Button\/@tall-outlined-blue"
+},
+"10BFC404-182E-440E-B68D-7F2132AE9364" : {
+"name" : "Button\/@Red-Large"
+},
+"34B37AF9-6F9F-45BD-8490-E97627DE8F2D" : {
+"name" : "Segmented-control\/@blue"
+},
+"9C5C3D3F-E740-4288-9B96-774BC09AB98C" : {
+"name" : "Icon\/@youtube-color"
+}
+}
+}
+}
+}

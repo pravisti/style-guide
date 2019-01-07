@@ -1,0 +1,574 @@
+{
+"layerStyles" : {
+"objects" : [
+{
+"do_objectID" : "F727D51D-9BCF-428A-9012-D1D7B84CD592",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.96078399999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.13725499999999999,
+"green" : 0.65098
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Sketch Measure \/ Property"
+},
+{
+"do_objectID" : "308C8086-E0C0-4A46-BA37-E0E7D8AE2043",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0.33333299999999999
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Sketch Measure \/ Size"
+},
+{
+"do_objectID" : "FEEE8973-A8A1-4F05-974B-4CC1EA3C1677",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.31372499999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.76078400000000002,
+"green" : 0.89019599999999999
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Sketch Measure \/ Spacing"
+},
+{
+"do_objectID" : "DED3CB17-1CE1-4F43-ACD1-28F076A0937B",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 0.29999999999999999,
+"blue" : 0,
+"green" : 0.33333299999999999
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Sketch Measure \/ Overlay"
+},
+{
+"do_objectID" : "AEC1CA94-2A7F-4DA5-94FE-9121DC53842A",
+"value" : {
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.5,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 4,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : false
+}
+],
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "segmented control drop shadow "
+}
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"gradients" : [
+
+],
+"colors" : [
+{
+"red" : 0.70980392156862748,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.19215686274509799,
+"green" : 0.1647058823529412
+},
+{
+"red" : 0.94117647058823528,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.30588235294117649,
+"green" : 0.67843137254901964
+},
+{
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.49411764705882361,
+"green" : 0.34901960784313718
+},
+{
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+{
+"red" : 0.17254901960784311,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.33725490196078428,
+"green" : 0.28627450980392161
+},
+{
+"red" : 0.92156862745098034,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1647058823529412,
+"green" : 0
+},
+{
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+{
+"red" : 0.10980392156862739,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0.7803921568627451
+},
+{
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+{
+"red" : 0.2470588235294118,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.92941176470588238,
+"green" : 0.68627450980392157
+},
+{
+"red" : 0.81568627450980391,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.9882352941176471,
+"green" : 0.91764705882352937
+}
+],
+"_class" : "assetCollection",
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"images" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/62993342-E91E-43C9-B9F0-9AE24D1A4A0E"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 1,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+{
+"do_objectID" : "C592EE09-3921-4AE4-881A-6F749FA9372D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Light",
+"size" : 36
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.31666670000000002,
+"paragraphStyle" : {
+"minimumLineHeight" : 47,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 47,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "H1"
+},
+{
+"do_objectID" : "F3B4526C-AF71-41A5-978F-C87C1CFC88C4",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Light",
+"size" : 30
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"ligature" : 0,
+"kerning" : -0.25,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "H2"
+},
+{
+"do_objectID" : "FF0B3DDA-F760-48AD-B62B-13D69A035B55",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.20000000000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 30,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 30,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "H3"
+},
+{
+"do_objectID" : "890FB78D-C3A0-43DC-BA0B-77A5DF42C557",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1333333333333333,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1333333333333333,
+"green" : 0.1333333333333333
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 18
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.14999999999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 23,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 23,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "H4"
+},
+{
+"do_objectID" : "7FAC5F83-8BAB-4AE2-8B8F-8D6E2B222C3F",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.13333329999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "H5"
+},
+{
+"do_objectID" : "0FB34393-D670-408B-8A22-68248001495A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.1166667,
+"paragraphStyle" : {
+"minimumLineHeight" : 22,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 22,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "H6"
+},
+{
+"do_objectID" : "D6B1C782-D98C-4E60-8F30-775154F33D44",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Light",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : -0.13333329999999999,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Paragraph"
+}
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "CA45FD22-683B-4B65-999A-0E32CA66AF23",
+"foreignTextStyles" : [
+
+],
+"userInfo" : {
+"com.invisionlabs.sync" : {
+"metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+}
+}
+}
