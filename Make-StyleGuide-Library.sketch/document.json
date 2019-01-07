@@ -4,6 +4,8 @@
 {
 "do_objectID" : "F727D51D-9BCF-428A-9012-D1D7B84CD592",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -24,9 +26,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Property"
@@ -34,6 +34,8 @@
 {
 "do_objectID" : "308C8086-E0C0-4A46-BA37-E0E7D8AE2043",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -54,9 +56,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Size"
@@ -64,6 +64,8 @@
 {
 "do_objectID" : "FEEE8973-A8A1-4F05-974B-4CC1EA3C1677",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -84,9 +86,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Spacing"
@@ -94,6 +94,8 @@
 {
 "do_objectID" : "DED3CB17-1CE1-4F43-ACD1-28F076A0937B",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -114,9 +116,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Overlay"
@@ -124,6 +124,11 @@
 {
 "do_objectID" : "AEC1CA94-2A7F-4DA5-94FE-9121DC53842A",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -145,12 +150,7 @@
 },
 "isEnabled" : false
 }
-],
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "segmented control drop shadow "
@@ -278,6 +278,9 @@
 {
 "do_objectID" : "C592EE09-3921-4AE4-881A-6F749FA9372D",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -306,11 +309,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "H1"
@@ -318,6 +318,9 @@
 {
 "do_objectID" : "F3B4526C-AF71-41A5-978F-C87C1CFC88C4",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -344,11 +347,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "H2"
@@ -356,6 +356,9 @@
 {
 "do_objectID" : "FF0B3DDA-F760-48AD-B62B-13D69A035B55",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -384,11 +387,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "H3"
@@ -396,6 +396,9 @@
 {
 "do_objectID" : "890FB78D-C3A0-43DC-BA0B-77A5DF42C557",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -424,11 +427,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "H4"
@@ -436,6 +436,9 @@
 {
 "do_objectID" : "7FAC5F83-8BAB-4AE2-8B8F-8D6E2B222C3F",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -464,11 +467,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "H5"
@@ -476,6 +476,9 @@
 {
 "do_objectID" : "0FB34393-D670-408B-8A22-68248001495A",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -504,11 +507,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "H6"
@@ -516,6 +516,9 @@
 {
 "do_objectID" : "D6B1C782-D98C-4E60-8F30-775154F33D44",
 "value" : {
+"startMarkerType" : 0,
+"endMarkerType" : 0,
+"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -544,11 +547,8 @@
 }
 }
 },
-"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Paragraph"

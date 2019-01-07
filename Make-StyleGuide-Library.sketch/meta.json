@@ -1,34 +1,5 @@
 {
 "commit" : "ebc3e0ead0906f5810891944454a71b877934b56",
-"build" : 67469,
-"version" : 112,
-"fonts" : [
-"FontAwesome",
-"Helvetica-Light",
-"HelveticaNeue",
-"Roboto-Light",
-"Roboto-Regular",
-"material",
-"Roboto-Medium",
-"Linearicons"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 1,
-"variant" : "NONAPPSTORE",
-"created" : {
-"commit" : "ebc3e0ead0906f5810891944454a71b877934b56",
-"appVersion" : "52.5",
-"build" : 67469,
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 112,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.67469"
-],
-"appVersion" : "52.5",
 "pagesAndArtboards" : {
 "62993342-E91E-43C9-B9F0-9AE24D1A4A0E" : {
 "name" : "Style Guide  V3",
@@ -36,17 +7,17 @@
 "255207A4-D7D8-40EA-8686-8E76A4A465AB" : {
 "name" : "Components  "
 },
-"D73BCFDA-ECDB-43E5-8D5A-5969D2B9A21E" : {
-"name" : "Overview"
-},
 "06235BD9-FA5D-4941-9150-630A1D975E4F" : {
 "name" : "Form Elements "
 },
-"0F9937F7-377B-4F20-9F2D-FCEC65776C94" : {
-"name" : "Foundation "
-},
 "885DC96D-D29B-404E-96DD-37B380AEA0C6" : {
 "name" : "Base Elements "
+},
+"D73BCFDA-ECDB-43E5-8D5A-5969D2B9A21E" : {
+"name" : "Overview"
+},
+"0F9937F7-377B-4F20-9F2D-FCEC65776C94" : {
+"name" : "Foundation "
 },
 "3B9654BF-8359-4FEA-A8CB-537DE3FD0BDB" : {
 "name" : "Templates "
@@ -89,17 +60,17 @@
 "08FBC5BB-1979-41AB-8084-0DF4229E1CA8" : {
 "name" : "Button\/@Blue-Small"
 },
-"B6D46E72-97B7-4D10-A342-3025C7EEDDDC" : {
-"name" : "Button\/@Red-Medium"
+"198FAC4E-AF5E-41E1-9F4F-BDCEC5E7E8AD" : {
+"name" : "Button\/@tall-outlined-white"
 },
 "8B95FBC2-F5CD-4302-8948-96547A0545E2" : {
 "name" : "Card\/@default-small"
 },
-"198FAC4E-AF5E-41E1-9F4F-BDCEC5E7E8AD" : {
-"name" : "Button\/@tall-outlined-white"
-},
 "A566354C-8C20-411F-8E4C-9F413B8780B3" : {
 "name" : "Alert\/@orange-bar"
+},
+"B6D46E72-97B7-4D10-A342-3025C7EEDDDC" : {
+"name" : "Button\/@Red-Medium"
 },
 "6B3A5892-44A8-483D-AE5C-2B073EC9F7B8" : {
 "name" : "color\/@text-green"
@@ -113,20 +84,20 @@
 "6345CDAF-0BC6-405E-8EB8-EDBE982781CE" : {
 "name" : "color\/@footer-gray"
 },
-"87C88193-91F1-4BE1-A9D7-21901351CDD9" : {
-"name" : "Button\/@radio-on"
-},
 "869BE0E3-90A6-4DAF-B839-B5D4CC8B0759" : {
 "name" : "color\/@background-red"
 },
-"F450E513-08B9-4E43-B694-9813341C7B24" : {
-"name" : "Progress-bar\/@red"
+"87C88193-91F1-4BE1-A9D7-21901351CDD9" : {
+"name" : "Button\/@radio-on"
 },
 "A45AC9AA-D579-4771-AA8E-BD37C23BFE6A" : {
 "name" : "color\/@background-orange"
 },
 "263391BB-CA75-437B-B446-8136CFDCDB08" : {
 "name" : "color\/@button-red"
+},
+"F450E513-08B9-4E43-B694-9813341C7B24" : {
+"name" : "Progress-bar\/@red"
 },
 "BC183D2A-4A32-45CB-A274-CE7FE5817CD2" : {
 "name" : "color\/@button-blue"
@@ -194,20 +165,20 @@
 "78184DC7-9E62-486E-A5F5-4C3C68137C9E" : {
 "name" : "Checkbox\/@without-check"
 },
-"C80B3A02-BACD-4F0D-9115-C9684C7D7B3A" : {
-"name" : "Icon\/@facebook"
-},
 "B8EBF479-F760-4291-90AA-52D5E7A2BFEC" : {
 "name" : "press-center-left-nav-mobile"
+},
+"C80B3A02-BACD-4F0D-9115-C9684C7D7B3A" : {
+"name" : "Icon\/@facebook"
 },
 "30AEA953-EB1F-4239-8B34-E0E697DB4757" : {
 "name" : "color\/@footer-dark-blue"
 },
-"4A96F048-3908-472B-9D97-A73A3F3D3232" : {
-"name" : "Navigation-bar\/@styleguide"
-},
 "263B1A93-DB6C-4D4E-A42E-7250B2204ACA" : {
 "name" : "Button\/@Red-NoBG"
+},
+"4A96F048-3908-472B-9D97-A73A3F3D3232" : {
+"name" : "Navigation-bar\/@styleguide"
 },
 "CED73126-35BA-42C8-941C-8DEC188D8BAC" : {
 "name" : "Icon\/@twitter-color"
@@ -215,29 +186,29 @@
 "B080BEDA-331A-4D18-B828-9B87545AA0C9" : {
 "name" : "color\/@footer-light-blue"
 },
-"FA4571D6-6309-4D56-9A5F-B3FC3B957DFF" : {
-"name" : "Label\/@red"
+"DB81AC88-EB84-46FD-899A-3ED165BE902C" : {
+"name" : "Label\/@red-icon"
 },
 "20F7E202-5742-4785-A97C-0E14AB077B2C" : {
 "name" : "Button\/@Blue-Large"
 },
-"F2281B38-F4B5-4716-9D2A-D4A6AE3A6AEE" : {
-"name" : "Icon\/@twitter"
-},
-"37050EC4-EEED-4084-B466-55FE6413071D" : {
-"name" : "color\/@background-lightblue"
-},
-"DB81AC88-EB84-46FD-899A-3ED165BE902C" : {
-"name" : "Label\/@red-icon"
+"BC1ECD3C-9B4C-4AFF-82EF-81D7D57EB03E" : {
+"name" : "Button\/@tall-outlined-blue"
 },
 "2FD6598C-FDDE-4F91-914A-E3065A4015B4" : {
 "name" : "Alert\/@warning-text"
 },
+"37050EC4-EEED-4084-B466-55FE6413071D" : {
+"name" : "color\/@background-lightblue"
+},
+"F2281B38-F4B5-4716-9D2A-D4A6AE3A6AEE" : {
+"name" : "Icon\/@twitter"
+},
 "60E7AEAD-1B1F-4C54-916A-6AC287129F69" : {
 "name" : "Pagination-bar"
 },
-"BC1ECD3C-9B4C-4AFF-82EF-81D7D57EB03E" : {
-"name" : "Button\/@tall-outlined-blue"
+"FA4571D6-6309-4D56-9A5F-B3FC3B957DFF" : {
+"name" : "Label\/@red"
 },
 "10BFC404-182E-440E-B68D-7F2132AE9364" : {
 "name" : "Button\/@Red-Large"
@@ -250,5 +221,34 @@
 }
 }
 }
-}
+},
+"version" : 112,
+"fonts" : [
+"FontAwesome",
+"Helvetica-Light",
+"HelveticaNeue",
+"Roboto-Light",
+"Roboto-Regular",
+"material",
+"Roboto-Medium",
+"Linearicons"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 67469,
+"appVersion" : "52.5",
+"commit" : "ebc3e0ead0906f5810891944454a71b877934b56",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 112,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.67469"
+],
+"appVersion" : "52.5",
+"build" : 67469
 }
