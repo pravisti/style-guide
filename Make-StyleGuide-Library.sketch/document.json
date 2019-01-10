@@ -239,6 +239,20 @@
 "alpha" : 1,
 "blue" : 0.9882352941176471,
 "green" : 0.91764705882352937
+},
+{
+"red" : 0.60784313725490191,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60784313725490191,
+"green" : 0.60784313725490191
+},
+{
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
 }
 ],
 "_class" : "assetCollection",
@@ -257,6 +271,11 @@
 "_ref_class" : "MSImmutablePage",
 "_class" : "MSJSONFileReference",
 "_ref" : "pages\/62993342-E91E-43C9-B9F0-9AE24D1A4A0E"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/BE44ED7F-0BBE-4697-B753-2765E067232B"
 },
 {
 "_ref_class" : "MSImmutablePage",
@@ -659,6 +678,46 @@
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Spacing"
+},
+{
+"do_objectID" : "045ED83B-FE06-48E5-B922-08F2ECC891D9",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.29019607843137252,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.29019607843137252,
+"green" : 0.29019607843137252
+},
+"kerning" : -0.13333329999999999,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 20
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button"
 }
 ],
 "_class" : "sharedTextStyleContainer"
