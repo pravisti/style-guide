@@ -9,34 +9,34 @@
 },
 "E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73" : {
 "scrollOrigin" : "{-8824, 682}",
-"zoomValue" : 0.5
+"zoomValue" : 2
 },
 "SMConfigs2" : "{\"scale\":\"1\",\"unit\":\"px\",\"colorFormat\":\"color-hex\",\"timestamp\":1543521268888,\"exportOption\":true,\"exportInfluenceRect\":false,\"order\":\"positive\",\"isHidden\":true,\"isLocked\":true,\"sizes\":{\"widthPlacement\":\"top\",\"heightPlacement\":\"right\"}}",
 "62993342-E91E-43C9-B9F0-9AE24D1A4A0E" : {
 "scrollOrigin" : "{-3665, 1459}",
 "zoomValue" : 0.5
 },
+"DCB84273-8297-495B-884F-533EF1C9EE2A" : {
+"scrollOrigin" : "{478, 384}",
+"zoomValue" : 1
+},
+"SM3Configs" : "{\"scale\":1,\"units\":\"px\",\"format\":\"color-hex\",\"properties\":[\"color\",\"font-face\",\"font-size\",\"character\",\"line-height\"]}",
 "document" : {
-"pageListHeight" : 132,
+"pageListHeight" : 123,
 "cloudShare" : {
 "owner" : {
-"hasAvatar" : 0,
-"id" : "b881753c-9d54-4b1c-b913-643500d0aee5",
-"updatedAt" : "2019-01-10T21:25:48.980Z",
-"name" : "pravisti shrestha",
-"createdAt" : "2019-01-10T21:25:48.980Z"
+"id" : "b881753c-9d54-4b1c-b913-643500d0aee5"
 },
-"viewerCanUpdate" : 1,
+"viewerCanUpdate" : 0,
 "id" : "2a901113-80c2-4fcf-9d24-36f99f53bfc1",
 "publicUrl" : "https:\/\/sketch.cloud\/s\/144on",
-"updatedAt" : "2019-01-10T21:25:37.000Z",
-"createdAt" : "2019-01-03T19:45:15.000Z",
+"updatedAt" : "2019-01-11T21:01:12.903Z",
+"createdAt" : "2019-01-11T21:01:12.903Z",
 "isPrivate" : 1,
 "shortId" : "144on"
 },
 "pageListCollapsed" : 0
 },
-"SM3Configs" : "{\"scale\":1,\"units\":\"px\",\"format\":\"color-hex\",\"properties\":[\"color\",\"font-face\",\"font-size\",\"character\",\"line-height\"]}",
 "98A9881D-EF85-46C7-968E-BB1FF6D52E12" : {
 "scrollOrigin" : "{599, 289}",
 "zoomValue" : 0.01
