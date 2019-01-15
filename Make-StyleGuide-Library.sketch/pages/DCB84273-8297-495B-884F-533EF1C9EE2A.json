@@ -67,7 +67,7 @@
 "y" : -674,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 416,
+"height" : 276,
 "width" : 403
 },
 "do_objectID" : "CA3F3691-9138-4C57-B53A-E7229E38B8F4",
@@ -119,7 +119,7 @@
 "y" : -158,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 416,
+"height" : 276,
 "width" : 403
 },
 "do_objectID" : "FA5AE9DF-9402-42E3-B0F9-2132628ADAE9",
@@ -144,6 +144,13 @@
 "nameIsFixed" : false,
 "resizingType" : 0,
 "horizontalSpacing" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
 "isLocked" : false,
 "scale" : 1,
 "shouldBreakMaskChain" : false,
