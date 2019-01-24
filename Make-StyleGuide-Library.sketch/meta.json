@@ -1,46 +1,17 @@
 {
 "commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
-"build" : 67491,
-"version" : 112,
-"fonts" : [
-"FontAwesome",
-"Helvetica-Light",
-"HelveticaNeue",
-"Roboto-Light",
-"Roboto-Regular",
-"material",
-"Roboto-Medium",
-"Linearicons"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 67491,
-"appVersion" : "52.6",
-"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 112,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.67491"
-],
-"appVersion" : "52.6",
 "pagesAndArtboards" : {
 "0B0816EF-7878-4546-89E0-B3EF4333794B" : {
 "name" : "Navigation",
 "artboards" : {
-"B24AE50E-83E8-4840-9290-BB12FF94B2E8" : {
-"name" : "navigation\/@secondary-makershed"
-},
 "D3E66A0D-7CCC-451C-940E-49EDF62E6C2E" : {
 "name" : "navigation\/@secondary-makemedia"
 },
 "A85C3416-057B-42D5-8578-8E9E2615239C" : {
 "name" : "navigation\/@secondary-make"
+},
+"B24AE50E-83E8-4840-9290-BB12FF94B2E8" : {
+"name" : "navigation\/@secondary-makershed"
 }
 }
 },
@@ -63,218 +34,11 @@
 }
 }
 },
-"E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73" : {
-"name" : "Symbols",
+"2ADE1A0F-A782-4167-B220-FD88CD15F38B" : {
+"name" : "google sites",
 "artboards" : {
-"43D1DE55-3E80-4AB4-B452-39B2781A68ED" : {
-"name" : "Icon\/@chevron-up"
-},
-"0422DB39-ADC3-44B7-91E5-4244F9B3AFC9" : {
-"name" : "color\/@background-blue-two"
-},
-"56ABEDD0-AE57-4908-8493-4BE3D4754720" : {
-"name" : "Icon\/@instagram"
-},
-"5593B2F0-AD0C-4B0A-8E72-69D5699D3CB3" : {
-"name" : "Icon\/@youtube"
-},
-"5E120659-7617-42E4-9869-5BE3C2907C9C" : {
-"name" : "Icon\/@cross"
-},
-"0DACF225-2B76-4F86-8269-AAC348C8FAF5" : {
-"name" : "Button\/@Red-Small "
-},
-"C0A1E616-F500-4FF9-87D4-F15F9325A117" : {
-"name" : "Alert\/@red-bar"
-},
-"57639980-6533-4668-8825-D6C705E1F4C3" : {
-"name" : "Icon\/@search"
-},
-"0ED309DF-F380-475C-BBFB-68B7791404EE" : {
-"name" : "Icon\/@download"
-},
-"C20D187B-2044-422F-8280-179727FEC4A8" : {
-"name" : "Button\/@radio-off"
-},
-"198FAC4E-AF5E-41E1-9F4F-BDCEC5E7E8AD" : {
-"name" : "Button\/@tall-outlined-white"
-},
-"8B95FBC2-F5CD-4302-8948-96547A0545E2" : {
-"name" : "Card\/@default-small"
-},
-"A566354C-8C20-411F-8E4C-9F413B8780B3" : {
-"name" : "Alert\/@orange-bar"
-},
-"B6D46E72-97B7-4D10-A342-3025C7EEDDDC" : {
-"name" : "Button\/@Red-Medium"
-},
-"6B3A5892-44A8-483D-AE5C-2B073EC9F7B8" : {
-"name" : "color\/@text-green"
-},
-"3DA48A72-AC31-4A96-89E4-8A0236E6BCEF" : {
-"name" : "color\/@background-darkblue"
-},
-"8C9A1C3C-F130-4704-A0F1-7300607C1347" : {
-"name" : "Checkbox\/@with-check"
-},
-"6345CDAF-0BC6-405E-8EB8-EDBE982781CE" : {
-"name" : "color\/@footer-gray"
-},
-"869BE0E3-90A6-4DAF-B839-B5D4CC8B0759" : {
-"name" : "color\/@background-red"
-},
-"87C88193-91F1-4BE1-A9D7-21901351CDD9" : {
-"name" : "Button\/@radio-on"
-},
-"A45AC9AA-D579-4771-AA8E-BD37C23BFE6A" : {
-"name" : "color\/@background-orange"
-},
-"263391BB-CA75-437B-B446-8136CFDCDB08" : {
-"name" : "color\/@button-red"
-},
-"F450E513-08B9-4E43-B694-9813341C7B24" : {
-"name" : "Progress-bar\/@red"
-},
-"BC183D2A-4A32-45CB-A274-CE7FE5817CD2" : {
-"name" : "color\/@button-blue"
-},
-"911C5327-D1D2-4A54-BEDB-39E3C4ED4EB9" : {
-"name" : "color\/@text-gray"
-},
-"16013E68-A00A-40AB-84CF-9F5DF9771E27" : {
-"name" : "Card\/@default "
-},
-"07C8C00E-42B2-4F4E-AACD-4E0D3A52EBD0" : {
-"name" : "Icon\/@menu"
-},
-"A2081D88-EF06-4C6B-AA03-D98A814B9D9A" : {
-"name" : "Button\/@White-NoBG"
-},
-"C10E9431-D9BD-4ABE-9D8B-47087D7E91F6" : {
-"name" : "color\/@text-blue"
-},
-"A60616A2-D925-405D-94B7-2D416B808293" : {
-"name" : "Alert\/@green-bar"
-},
-"9873D632-B6A6-4263-BEC0-4B64CC52DC6D" : {
-"name" : "Icon\/@chevron-down"
-},
-"0C58C4C6-63FB-4F7E-B6D0-757F8C82465F" : {
-"name" : "Grey rectangle for list"
-},
-"3293C26C-5063-4F5F-A680-6FE8B6982139" : {
-"name" : "Button\/@small-outlined-red"
-},
-"417AF502-8A62-44E2-8225-D6AE06FE28EE" : {
-"name" : "Button\/@Blue-NoBG "
-},
-"182905F1-7F43-425D-A8E4-13ED07ED0E81" : {
-"name" : "color\/@background-dark-teal"
-},
-"0E4F94C0-4936-42E9-9611-7D3384AF08A6" : {
-"name" : "Button\/@Blue-Medium"
-},
-"D553BA83-D6C0-4C59-A903-89F74F91CDE1" : {
-"name" : "Icon\/@print"
-},
-"099A7B81-9659-4AF0-B194-4A074462AA7F" : {
-"name" : "Icon\/@instagram-color"
-},
-"80519CB6-6DE3-462A-BF54-54B2120427E8" : {
-"name" : "Navigation-bar\/@left-generic"
-},
-"1787802C-BCAD-43BD-909B-EC2992D0D07E" : {
-"name" : "Icon\/@chevron-left"
-},
-"F407EB67-7902-44DB-9A44-99ED859B8817" : {
-"name" : "Alert\/@success-text"
-},
-"15B19474-E4A6-49D2-ABEC-F96DE3DC090B" : {
-"name" : "Icon\/@check"
-},
-"8D328FE2-7274-47BB-98BD-1389FAD919A3" : {
-"name" : "Icon\/@chevron-right"
-},
-"F153400D-6108-444F-84AA-EE805B62F593" : {
-"name" : "navigation\/@universal-nav-dropdown-static"
-},
-"136061AA-85A1-4561-A58C-A6C5F8AF4D0C" : {
-"name" : "Button\/@tall-blue"
-},
-"2749D7E9-09B6-4C75-90F9-C9AE5F047ECA" : {
-"name" : "Button\/@small-outlined-red"
-},
-"708EC886-AF9F-444E-8736-6E28908C1D3A" : {
-"name" : "Button\/@Blue-small"
-},
-"88C3B9EE-9F84-4D04-A412-04A7D6489250" : {
-"name" : "Button\/@tall-outlined-red"
-},
-"C939CD15-E04F-4AC9-8A17-2ACDFC341989" : {
-"name" : "Icon\/@facebook-color"
-},
-"78184DC7-9E62-486E-A5F5-4C3C68137C9E" : {
-"name" : "Checkbox\/@without-check"
-},
-"B8EBF479-F760-4291-90AA-52D5E7A2BFEC" : {
-"name" : "press-center-left-nav-mobile"
-},
-"C80B3A02-BACD-4F0D-9115-C9684C7D7B3A" : {
-"name" : "Icon\/@facebook"
-},
-"30AEA953-EB1F-4239-8B34-E0E697DB4757" : {
-"name" : "color\/@footer-dark-blue"
-},
-"6EA53161-AC13-471E-8E05-F2CD4E279C2D" : {
-"name" : "navigation\/@universal-nav-dropdown-hover"
-},
-"4A96F048-3908-472B-9D97-A73A3F3D3232" : {
-"name" : "Navigation-bar\/@styleguide"
-},
-"CED73126-35BA-42C8-941C-8DEC188D8BAC" : {
-"name" : "Icon\/@twitter-color"
-},
-"B080BEDA-331A-4D18-B828-9B87545AA0C9" : {
-"name" : "color\/@footer-light-blue"
-},
-"C35CEABF-F47A-42D5-9C3D-437C400C4268" : {
-"name" : "Button\/@outlined-medium-red"
-},
-"20F7E202-5742-4785-A97C-0E14AB077B2C" : {
-"name" : "Button\/@Blue-Large"
-},
-"BC1ECD3C-9B4C-4AFF-82EF-81D7D57EB03E" : {
-"name" : "Button\/@tall-outlined-blue"
-},
-"2FD6598C-FDDE-4F91-914A-E3065A4015B4" : {
-"name" : "Alert\/@warning-text"
-},
-"37050EC4-EEED-4084-B466-55FE6413071D" : {
-"name" : "color\/@background-lightblue"
-},
-"DB81AC88-EB84-46FD-899A-3ED165BE902C" : {
-"name" : "Label\/@red-icon"
-},
-"60E7AEAD-1B1F-4C54-916A-6AC287129F69" : {
-"name" : "Pagination-bar"
-},
-"B93F6D11-A11F-4B6D-A8DA-AFD0FE780046" : {
-"name" : "Button\/@outlined-large-red"
-},
-"10BFC404-182E-440E-B68D-7F2132AE9364" : {
-"name" : "Button\/@Red-Large"
-},
-"34B37AF9-6F9F-45BD-8490-E97627DE8F2D" : {
-"name" : "Segmented-control\/@blue"
-},
-"9C5C3D3F-E740-4288-9B96-774BC09AB98C" : {
-"name" : "Icon\/@youtube-color"
-},
-"F2281B38-F4B5-4716-9D2A-D4A6AE3A6AEE" : {
-"name" : "Icon\/@twitter"
-},
-"FA4571D6-6309-4D56-9A5F-B3FC3B957DFF" : {
-"name" : "Label\/@red"
+"9F6FAAD1-B55F-451C-8B10-26BC2871F652" : {
+"name" : "Base Elements  - google sites "
 }
 }
 },
@@ -283,6 +47,9 @@
 "artboards" : {
 "3B9654BF-8359-4FEA-A8CB-537DE3FD0BDB" : {
 "name" : "Templates "
+},
+"E96A8816-7862-4143-8481-CCADD2225FAC" : {
+"name" : "Base Elements  V5"
 },
 "255207A4-D7D8-40EA-8686-8E76A4A465AB" : {
 "name" : "Components  "
@@ -302,6 +69,9 @@
 "06235BD9-FA5D-4941-9150-630A1D975E4F" : {
 "name" : "Form Elements "
 },
+"8B85C22F-9DEB-4403-8D19-89F2AAC1F3FE" : {
+"name" : "Base Elements  V4"
+},
 "C4CEE354-49FD-4973-847C-628A65EEBBF8" : {
 "name" : "add a makerspace button "
 },
@@ -309,6 +79,304 @@
 "name" : "Overview"
 }
 }
+},
+"E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73" : {
+"name" : "Symbols",
+"artboards" : {
+"B8EBF479-F760-4291-90AA-52D5E7A2BFEC" : {
+"name" : "press-center-left-nav-mobile"
+},
+"417AF502-8A62-44E2-8225-D6AE06FE28EE" : {
+"name" : "button\/@border-large-blue"
+},
+"43D1DE55-3E80-4AB4-B452-39B2781A68ED" : {
+"name" : "Icon\/@chevron-up"
+},
+"F407EB67-7902-44DB-9A44-99ED859B8817" : {
+"name" : "Alert\/@success-text"
+},
+"0C58C4C6-63FB-4F7E-B6D0-757F8C82465F" : {
+"name" : "Grey rectangle for list"
+},
+"5822C685-4872-4DAD-861F-BFA1BCBA62A9" : {
+"name" : "button\/@border-large-blue-onhover"
+},
+"9C5C3D3F-E740-4288-9B96-774BC09AB98C" : {
+"name" : "Icon\/@youtube-color"
+},
+"5593B2F0-AD0C-4B0A-8E72-69D5699D3CB3" : {
+"name" : "Icon\/@youtube"
+},
+"F153400D-6108-444F-84AA-EE805B62F593" : {
+"name" : "navigation\/@universal-nav-dropdown-static"
+},
+"C80B3A02-BACD-4F0D-9115-C9684C7D7B3A" : {
+"name" : "Icon\/@facebook"
+},
+"1787802C-BCAD-43BD-909B-EC2992D0D07E" : {
+"name" : "Icon\/@chevron-left"
+},
+"11A3761A-A8C8-4BA9-A35E-449B32C5E151" : {
+"name" : "button\/@border-tall-white"
+},
+"184476F2-01B8-4F70-977B-12DBE600BDB0" : {
+"name" : "button\/@border-medium-blue"
+},
+"198FAC4E-AF5E-41E1-9F4F-BDCEC5E7E8AD" : {
+"name" : "Button\/@tall-outlined-white"
+},
+"34B37AF9-6F9F-45BD-8490-E97627DE8F2D" : {
+"name" : "Segmented-control\/@blue"
+},
+"C0347A21-30B1-4047-9008-2999528A4652" : {
+"name" : "button\/@small-blue"
+},
+"0ED309DF-F380-475C-BBFB-68B7791404EE" : {
+"name" : "Icon\/@download"
+},
+"8B95FBC2-F5CD-4302-8948-96547A0545E2" : {
+"name" : "Card\/@default-small"
+},
+"9873D632-B6A6-4263-BEC0-4B64CC52DC6D" : {
+"name" : "Icon\/@chevron-down"
+},
+"3293C26C-5063-4F5F-A680-6FE8B6982139" : {
+"name" : "button\/@border-small-red"
+},
+"87C88193-91F1-4BE1-A9D7-21901351CDD9" : {
+"name" : "Button\/@radio-on"
+},
+"BC183D2A-4A32-45CB-A274-CE7FE5817CD2" : {
+"name" : "color\/@button-blue"
+},
+"1258E723-E137-4B46-87D9-65A659581324" : {
+"name" : "button\/@tall-blue"
+},
+"2749D7E9-09B6-4C75-90F9-C9AE5F047ECA" : {
+"name" : "Button\/@small-outlined-red"
+},
+"2FD6598C-FDDE-4F91-914A-E3065A4015B4" : {
+"name" : "Alert\/@warning-text"
+},
+"32AEFCAE-7861-4723-B7FD-8E3E40D9B645" : {
+"name" : "button\/@medium-red"
+},
+"56ABEDD0-AE57-4908-8493-4BE3D4754720" : {
+"name" : "Icon\/@instagram"
+},
+"6B60E5A4-1B05-483D-8C6F-50BD00E2AF02" : {
+"name" : "button\/@border-medium-white"
+},
+"A2081D88-EF06-4C6B-AA03-D98A814B9D9A" : {
+"name" : "button\/@border-large-white"
+},
+"708EC886-AF9F-444E-8736-6E28908C1D3A" : {
+"name" : "Button\/@Blue-small"
+},
+"F2281B38-F4B5-4716-9D2A-D4A6AE3A6AEE" : {
+"name" : "Icon\/@twitter"
+},
+"8C9A1C3C-F130-4704-A0F1-7300607C1347" : {
+"name" : "Checkbox\/@with-check"
+},
+"136061AA-85A1-4561-A58C-A6C5F8AF4D0C" : {
+"name" : "Button\/@tall-blue"
+},
+"205D625F-FD83-4AE7-BC90-5C9694EA5AF0" : {
+"name" : "button\/@border-tall-blue"
+},
+"88C3B9EE-9F84-4D04-A412-04A7D6489250" : {
+"name" : "Button\/@tall-outlined-red"
+},
+"182905F1-7F43-425D-A8E4-13ED07ED0E81" : {
+"name" : "color\/@background-dark-teal"
+},
+"6EA53161-AC13-471E-8E05-F2CD4E279C2D" : {
+"name" : "navigation\/@universal-nav-dropdown-hover"
+},
+"0422DB39-ADC3-44B7-91E5-4244F9B3AFC9" : {
+"name" : "color\/@background-blue-two"
+},
+"FA4571D6-6309-4D56-9A5F-B3FC3B957DFF" : {
+"name" : "Label\/@red"
+},
+"3DA48A72-AC31-4A96-89E4-8A0236E6BCEF" : {
+"name" : "color\/@background-darkblue"
+},
+"D553BA83-D6C0-4C59-A903-89F74F91CDE1" : {
+"name" : "Icon\/@print"
+},
+"30AEA953-EB1F-4239-8B34-E0E697DB4757" : {
+"name" : "color\/@footer-dark-blue"
+},
+"4E50BC53-3BD4-4D32-93BB-345F286BF2B5" : {
+"name" : "button\/@large-blue"
+},
+"07C8C00E-42B2-4F4E-AACD-4E0D3A52EBD0" : {
+"name" : "Icon\/@menu"
+},
+"099A7B81-9659-4AF0-B194-4A074462AA7F" : {
+"name" : "Icon\/@instagram-color"
+},
+"85422EF1-86D6-492F-B304-D8750EDBBF71" : {
+"name" : "button\/@medium-red-onhover"
+},
+"DB81AC88-EB84-46FD-899A-3ED165BE902C" : {
+"name" : "Label\/@red-icon"
+},
+"911C5327-D1D2-4A54-BEDB-39E3C4ED4EB9" : {
+"name" : "color\/@text-gray"
+},
+"80519CB6-6DE3-462A-BF54-54B2120427E8" : {
+"name" : "Navigation-bar\/@left-generic"
+},
+"1D088E22-0246-4BB0-9302-CD95808405A1" : {
+"name" : "button\/large-red"
+},
+"C20D187B-2044-422F-8280-179727FEC4A8" : {
+"name" : "Button\/@radio-off"
+},
+"A45AC9AA-D579-4771-AA8E-BD37C23BFE6A" : {
+"name" : "color\/@background-orange"
+},
+"C939CD15-E04F-4AC9-8A17-2ACDFC341989" : {
+"name" : "Icon\/@facebook-color"
+},
+"78184DC7-9E62-486E-A5F5-4C3C68137C9E" : {
+"name" : "Checkbox\/@without-check"
+},
+"F450E513-08B9-4E43-B694-9813341C7B24" : {
+"name" : "Progress-bar\/@red"
+},
+"869BE0E3-90A6-4DAF-B839-B5D4CC8B0759" : {
+"name" : "color\/@background-red"
+},
+"94C4F2AA-256D-454E-AF7E-934B7F0AEE7D" : {
+"name" : "button\/small-red"
+},
+"A566354C-8C20-411F-8E4C-9F413B8780B3" : {
+"name" : "Alert\/@orange-bar"
+},
+"D1330EFB-4578-4633-8A18-3BA385AC18A9" : {
+"name" : "button\/@border-large-blue"
+},
+"E9167DE6-ADB4-4A23-A4D1-13F16641C610" : {
+"name" : "button\/@tall-red"
+},
+"6345CDAF-0BC6-405E-8EB8-EDBE982781CE" : {
+"name" : "color\/@footer-gray"
+},
+"60BB764F-75C9-4234-AAF7-5B7066F7AD62" : {
+"name" : "Button\/@Blue-medium-outline"
+},
+"8D328FE2-7274-47BB-98BD-1389FAD919A3" : {
+"name" : "Icon\/@chevron-right"
+},
+"B1DDBEBF-29E9-47B8-85D2-25D729CB1C0F" : {
+"name" : "button\/@border-small-white"
+},
+"16013E68-A00A-40AB-84CF-9F5DF9771E27" : {
+"name" : "Card\/@default "
+},
+"5E120659-7617-42E4-9869-5BE3C2907C9C" : {
+"name" : "Icon\/@cross"
+},
+"A60616A2-D925-405D-94B7-2D416B808293" : {
+"name" : "Alert\/@green-bar"
+},
+"BEAB1274-3D62-4EE8-8454-79F690B27F02" : {
+"name" : "button\/@medium-blue"
+},
+"B6D46E72-97B7-4D10-A342-3025C7EEDDDC" : {
+"name" : "Button\/@Red-Medium"
+},
+"C10E9431-D9BD-4ABE-9D8B-47087D7E91F6" : {
+"name" : "color\/@text-blue"
+},
+"401A22F6-9461-4C33-8AFF-887F5BCBD03E" : {
+"name" : "button\/@border-white-onhover"
+},
+"15B19474-E4A6-49D2-ABEC-F96DE3DC090B" : {
+"name" : "Icon\/@check"
+},
+"263391BB-CA75-437B-B446-8136CFDCDB08" : {
+"name" : "color\/@button-red"
+},
+"C9D05297-B29D-4B52-B19E-CDBFA5AEFBFD" : {
+"name" : "button\/@tall-red"
+},
+"60E7AEAD-1B1F-4C54-916A-6AC287129F69" : {
+"name" : "Pagination-bar"
+},
+"6B3A5892-44A8-483D-AE5C-2B073EC9F7B8" : {
+"name" : "color\/@text-green"
+},
+"37050EC4-EEED-4084-B466-55FE6413071D" : {
+"name" : "color\/@background-lightblue"
+},
+"2919D301-53E0-424F-9B3B-4F036C4B5EFA" : {
+"name" : "Button\/@Blue-small-outline"
+},
+"B93F6D11-A11F-4B6D-A8DA-AFD0FE780046" : {
+"name" : "button\/@border-large-red"
+},
+"0DACF225-2B76-4F86-8269-AAC348C8FAF5" : {
+"name" : "Button\/@Red-Small "
+},
+"C0A1E616-F500-4FF9-87D4-F15F9325A117" : {
+"name" : "Alert\/@red-bar"
+},
+"12F016AD-229A-424B-931C-E61C516725A6" : {
+"name" : "button\/@medium-blue-onhover"
+},
+"CED73126-35BA-42C8-941C-8DEC188D8BAC" : {
+"name" : "Icon\/@twitter-color"
+},
+"C35CEABF-F47A-42D5-9C3D-437C400C4268" : {
+"name" : "button\/@border-medium-red"
+},
+"4A96F048-3908-472B-9D97-A73A3F3D3232" : {
+"name" : "Navigation-bar\/@styleguide"
+},
+"57639980-6533-4668-8825-D6C705E1F4C3" : {
+"name" : "Icon\/@search"
+},
+"B080BEDA-331A-4D18-B828-9B87545AA0C9" : {
+"name" : "color\/@footer-light-blue"
+},
+"BC1ECD3C-9B4C-4AFF-82EF-81D7D57EB03E" : {
+"name" : "Button\/@tall-outlined-blue"
 }
 }
+}
+},
+"version" : 112,
+"fonts" : [
+"FontAwesome",
+"Helvetica-Light",
+"HelveticaNeue",
+"Roboto-Light",
+"Roboto-Regular",
+"material",
+"Roboto-Medium",
+"Linearicons"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 1,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 67491,
+"appVersion" : "52.6",
+"commit" : "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 112,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.67491"
+],
+"appVersion" : "52.6",
+"build" : 67491
 }

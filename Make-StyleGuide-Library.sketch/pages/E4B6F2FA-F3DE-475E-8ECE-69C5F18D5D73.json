@@ -11,8 +11,7 @@
 "base" : -596,
 "_class" : "rulerData",
 "guides" : [
-14592,
-14608
+
 ]
 },
 "frame" : {
@@ -43,8 +42,7 @@
 "base" : -340,
 "_class" : "rulerData",
 "guides" : [
--235,
--223
+
 ]
 },
 "isFlippedVertical" : false,
@@ -5004,837 +5002,6 @@
 "resizingConstraint" : 63
 },
 {
-"symbolID" : "3733BE78-D1DF-47DB-82C2-22BAEF8DA11C",
-"includeInCloudUpload" : true,
-"rotation" : 0,
-"verticalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"resizesContent" : false,
-"isFlippedVertical" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"x" : 0,
-"y" : 0,
-"_class" : "rect",
-"constrainProportions" : false,
-"height" : 40,
-"width" : 300
-},
-"do_objectID" : "2593CA2B-CAAA-4331-B909-839F515AE696",
-"hasClickThrough" : false,
-"exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"exportFormats" : [
-
-]
-},
-"layerListExpandedType" : 2,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Button- Large",
-"isVisible" : true,
-"hasClippingMask" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"hasConvertedToNewRoundCorners" : true,
-"rotation" : 0,
-"frame" : {
-"x" : 0,
-"y" : 0,
-"_class" : "rect",
-"constrainProportions" : false,
-"height" : 40,
-"width" : 300
-},
-"do_objectID" : "7F30D969-5FCF-4A8B-9509-5FF8BADE7492",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"style" : {
-"_class" : "style",
-"borders" : [
-{
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"color" : {
-"red" : 0.59199999999999997,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.59199999999999997,
-"green" : 0.59199999999999997
-}
-}
-],
-"miterLimit" : 10,
-"fills" : [
-{
-"_class" : "fill",
-"color" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.60392156862745094,
-"green" : 0.36862745098039218
-},
-"patternTileScale" : 1,
-"fillType" : 0,
-"noiseIntensity" : 0,
-"patternFillType" : 1,
-"noiseIndex" : 0,
-"isEnabled" : true
-}
-],
-"startMarkerType" : 0,
-"windingRule" : 0,
-"endMarkerType" : 0
-},
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Rectangle",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isClosed" : true,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"isLocked" : false,
-"points" : [
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{0, 0}",
-"point" : "{0, 0}",
-"cornerRadius" : 2,
-"curveTo" : "{0, 0}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{1, 0}",
-"point" : "{1, 0}",
-"cornerRadius" : 2,
-"curveTo" : "{1, 0}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{1, 1}",
-"point" : "{1, 1}",
-"cornerRadius" : 2,
-"curveTo" : "{1, 1}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{0, 1}",
-"point" : "{0, 1}",
-"cornerRadius" : 2,
-"curveTo" : "{0, 1}",
-"hasCurveFrom" : false
-}
-],
-"fixedRadius" : 2,
-"pointRadiusBehaviour" : 1,
-"isFixedToViewport" : false,
-"shouldBreakMaskChain" : false,
-"_class" : "rectangle",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-}
-],
-"nameIsFixed" : true,
-"resizingType" : 0,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"isLocked" : false,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "group",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-}
-],
-"shouldBreakMaskChain" : true,
-"changeIdentifier" : 8,
-"booleanOperation" : -1,
-"includeBackgroundColorInExport" : true,
-"_class" : "symbolMaster",
-"clippingMaskMode" : 0,
-"hasBackgroundColor" : false,
-"isFlowHome" : false,
-"isLocked" : false,
-"backgroundColor" : {
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 1,
-"green" : 1
-},
-"hasClickThrough" : true,
-"isFixedToViewport" : false,
-"nameIsFixed" : true,
-"isVisible" : true,
-"hasClippingMask" : false,
-"style" : {
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"exportFormats" : [
-
-]
-},
-"name" : "Button\/@Blue-Large",
-"resizingType" : 0,
-"do_objectID" : "20F7E202-5742-4785-A97C-0E14AB077B2C",
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"frame" : {
-"x" : 7489,
-"y" : -527,
-"_class" : "rect",
-"constrainProportions" : false,
-"height" : 40,
-"width" : 300
-},
-"includeBackgroundColorInInstance" : false,
-"isFlippedHorizontal" : false,
-"layerListExpandedType" : 2,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"resizingConstraint" : 63
-},
-{
-"symbolID" : "5FCD08C0-E60D-4D88-B8E3-D3D46315C696",
-"includeInCloudUpload" : true,
-"rotation" : 0,
-"verticalRulerData" : {
-"do_objectID" : "7E7A9764-58B2-409D-A8EA-43F6C0BA2BF8",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
-"resizesContent" : false,
-"isFlippedVertical" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "3405E724-D492-4B7B-860C-04D2A9475370",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 40,
-"constrainProportions" : false,
-"do_objectID" : "27FD3975-74B6-4570-8855-E284300EECD2",
-"x" : 0,
-"width" : 300,
-"y" : 0
-},
-"do_objectID" : "C0942930-5C99-44CD-9A7C-28CF4C044970",
-"hasClickThrough" : false,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "851BD8DF-73E6-45DE-B465-60805B4011C4",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"layerListExpandedType" : 2,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Button- Large",
-"isVisible" : true,
-"hasClippingMask" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"hasConvertedToNewRoundCorners" : true,
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 40,
-"constrainProportions" : false,
-"do_objectID" : "B5D93877-2570-4AD4-A529-2B3358F20602",
-"x" : 0,
-"width" : 300,
-"y" : 0
-},
-"do_objectID" : "CD3B82F1-4A8B-4BA4-AAC7-D49A26E84CA4",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "E98B09D9-5E22-4265-A8C1-3962FFDB5D20",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"style" : {
-"_class" : "style",
-"borders" : [
-{
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"color" : {
-"red" : 0.59199999999999997,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.59199999999999997,
-"green" : 0.59199999999999997
-}
-}
-],
-"do_objectID" : "DEFCE3BA-8AD1-4453-91C0-F77117CB0DF9",
-"miterLimit" : 10,
-"fills" : [
-{
-"_class" : "fill",
-"color" : {
-"red" : 0.92156862745098034,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.1647058823529412,
-"green" : 0
-},
-"patternTileScale" : 1,
-"fillType" : 0,
-"noiseIntensity" : 0,
-"patternFillType" : 1,
-"noiseIndex" : 0,
-"isEnabled" : true
-}
-],
-"startMarkerType" : 0,
-"windingRule" : 0,
-"endMarkerType" : 0
-},
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Rectangle",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isClosed" : true,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"isLocked" : false,
-"points" : [
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{0, 0}",
-"point" : "{0, 0}",
-"cornerRadius" : 2,
-"curveTo" : "{0, 0}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{1, 0}",
-"point" : "{1, 0}",
-"cornerRadius" : 2,
-"curveTo" : "{1, 0}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{1, 1}",
-"point" : "{1, 1}",
-"cornerRadius" : 2,
-"curveTo" : "{1, 1}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{0, 1}",
-"point" : "{0, 1}",
-"cornerRadius" : 2,
-"curveTo" : "{0, 1}",
-"hasCurveFrom" : false
-}
-],
-"fixedRadius" : 2,
-"pointRadiusBehaviour" : 1,
-"isFixedToViewport" : false,
-"shouldBreakMaskChain" : false,
-"_class" : "rectangle",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-}
-],
-"nameIsFixed" : true,
-"resizingType" : 0,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"isLocked" : false,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "group",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-}
-],
-"shouldBreakMaskChain" : true,
-"changeIdentifier" : 52,
-"booleanOperation" : -1,
-"includeBackgroundColorInExport" : true,
-"_class" : "symbolMaster",
-"clippingMaskMode" : 0,
-"hasBackgroundColor" : false,
-"isFlowHome" : false,
-"isLocked" : false,
-"backgroundColor" : {
-"do_objectID" : "3CBDBFFE-E17D-40C9-9866-D3800E3C38BF",
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 1,
-"green" : 1
-},
-"hasClickThrough" : true,
-"isFixedToViewport" : false,
-"nameIsFixed" : true,
-"isVisible" : true,
-"hasClippingMask" : false,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "62157C6E-2029-4F3B-98DC-0233BC104542",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "7AA30230-6BED-4B2F-A88F-5080A3F533E9",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"name" : "Button\/@Red-Large",
-"resizingType" : 0,
-"do_objectID" : "10BFC404-182E-440E-B68D-7F2132AE9364",
-"horizontalRulerData" : {
-"do_objectID" : "EFF9837D-9C77-49C8-B458-51EFB8856BDD",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
-"frame" : {
-"_class" : "rect",
-"height" : 40,
-"constrainProportions" : false,
-"do_objectID" : "9413AFA5-C88C-4C8C-AFA8-22A878ED2C8A",
-"x" : 7489,
-"width" : 300,
-"y" : -426
-},
-"includeBackgroundColorInInstance" : false,
-"isFlippedHorizontal" : false,
-"layerListExpandedType" : 2,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"resizingConstraint" : 63
-},
-{
-"symbolID" : "77BD42B2-8C18-4911-8D30-010C016A3217",
-"includeInCloudUpload" : true,
-"rotation" : 0,
-"verticalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"resizesContent" : false,
-"isFlippedVertical" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"x" : 0,
-"y" : 0,
-"_class" : "rect",
-"constrainProportions" : false,
-"height" : 40,
-"width" : 200
-},
-"do_objectID" : "E00D2E3A-178C-4EDB-848F-CC92C432C876",
-"hasClickThrough" : false,
-"exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"exportFormats" : [
-
-]
-},
-"layerListExpandedType" : 0,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Group",
-"isVisible" : true,
-"hasClippingMask" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"hasConvertedToNewRoundCorners" : true,
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 40,
-"constrainProportions" : false,
-"do_objectID" : "E7F200BE-5FA7-4FBC-9F01-4439C33821B3",
-"x" : 0,
-"width" : 200,
-"y" : 0
-},
-"do_objectID" : "DDB03D4C-8EDC-41B6-8FB9-37F56B827BAA",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "4A828C7B-DC38-4ACA-908F-3C24F9A16161",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"style" : {
-"_class" : "style",
-"borders" : [
-{
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
-"color" : {
-"red" : 0.59199999999999997,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.59199999999999997,
-"green" : 0.59199999999999997
-}
-}
-],
-"do_objectID" : "BE3902A8-362D-42C1-AA45-1BE5E4616065",
-"miterLimit" : 10,
-"fills" : [
-{
-"_class" : "fill",
-"color" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.60392156862745094,
-"green" : 0.36862745098039218
-},
-"patternTileScale" : 1,
-"fillType" : 0,
-"noiseIntensity" : 0,
-"patternFillType" : 1,
-"noiseIndex" : 0,
-"isEnabled" : true
-}
-],
-"startMarkerType" : 0,
-"windingRule" : 0,
-"endMarkerType" : 0
-},
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Rectangle Copy 7",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isClosed" : true,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"isLocked" : false,
-"points" : [
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{0, 0}",
-"point" : "{0, 0}",
-"cornerRadius" : 2,
-"curveTo" : "{0, 0}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{1, 0}",
-"point" : "{1, 0}",
-"cornerRadius" : 2,
-"curveTo" : "{1, 0}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{1, 1}",
-"point" : "{1, 1}",
-"cornerRadius" : 2,
-"curveTo" : "{1, 1}",
-"hasCurveFrom" : false
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 1,
-"hasCurveTo" : false,
-"curveFrom" : "{0, 1}",
-"point" : "{0, 1}",
-"cornerRadius" : 2,
-"curveTo" : "{0, 1}",
-"hasCurveFrom" : false
-}
-],
-"fixedRadius" : 2,
-"pointRadiusBehaviour" : 1,
-"isFixedToViewport" : false,
-"shouldBreakMaskChain" : false,
-"_class" : "rectangle",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-}
-],
-"nameIsFixed" : false,
-"resizingType" : 0,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"isLocked" : false,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "group",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-}
-],
-"shouldBreakMaskChain" : true,
-"changeIdentifier" : 13,
-"booleanOperation" : -1,
-"includeBackgroundColorInExport" : true,
-"_class" : "symbolMaster",
-"clippingMaskMode" : 0,
-"hasBackgroundColor" : false,
-"isFlowHome" : false,
-"isLocked" : false,
-"backgroundColor" : {
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 1,
-"green" : 1
-},
-"hasClickThrough" : true,
-"isFixedToViewport" : false,
-"nameIsFixed" : true,
-"isVisible" : true,
-"hasClippingMask" : false,
-"style" : {
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"exportFormats" : [
-
-]
-},
-"name" : "Button\/@Blue-Medium",
-"resizingType" : 0,
-"do_objectID" : "0E4F94C0-4936-42E9-9611-7D3384AF08A6",
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-
-]
-},
-"frame" : {
-"x" : 7889,
-"y" : -527,
-"_class" : "rect",
-"constrainProportions" : false,
-"height" : 40,
-"width" : 200
-},
-"includeBackgroundColorInInstance" : false,
-"isFlippedHorizontal" : false,
-"layerListExpandedType" : 0,
-"userInfo" : {
-"com.animaapp.stc-sketch-plugin" : {
-"kModelPropertiesKey" : {
-
-}
-}
-},
-"resizingConstraint" : 63
-},
-{
 "symbolID" : "1556F1A2-4991-4EBE-995E-DCF5965C7070",
 "includeInCloudUpload" : true,
 "rotation" : 0,
@@ -6623,7 +5790,7 @@
 },
 "glyphBounds" : "{{1, 2}, {52, 12}}",
 "frame" : {
-"x" : 119,
+"x" : 123,
 "y" : 12,
 "_class" : "rect",
 "constrainProportions" : false,
@@ -6720,7 +5887,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 111,
+"changeIdentifier" : 276,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -6735,7 +5902,7 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
 "nameIsFixed" : true,
 "isVisible" : true,
@@ -6758,7 +5925,7 @@
 
 ]
 },
-"name" : "Button\/@White-NoBG",
+"name" : "button\/@border-large-white",
 "resizingType" : 0,
 "do_objectID" : "A2081D88-EF06-4C6B-AA03-D98A814B9D9A",
 "horizontalRulerData" : {
@@ -6769,8 +5936,8 @@
 ]
 },
 "frame" : {
-"x" : 7239,
-"y" : -307,
+"x" : 7491,
+"y" : -241,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 40,
@@ -7022,7 +6189,7 @@
 "height" : 16,
 "constrainProportions" : false,
 "do_objectID" : "1E946032-3D9C-48FA-87F3-29E8D4AC2CEB",
-"x" : 119,
+"x" : 123,
 "width" : 55,
 "y" : 12
 },
@@ -7117,7 +6284,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 381,
+"changeIdentifier" : 678,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -7133,7 +6300,7 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
 "nameIsFixed" : true,
 "isVisible" : true,
@@ -7158,7 +6325,7 @@
 
 ]
 },
-"name" : "Button\/@Blue-NoBG ",
+"name" : "button\/@border-large-blue",
 "resizingType" : 0,
 "do_objectID" : "417AF502-8A62-44E2-8225-D6AE06FE28EE",
 "horizontalRulerData" : {
@@ -7174,9 +6341,9 @@
 "height" : 40,
 "constrainProportions" : false,
 "do_objectID" : "BE1ACB97-E99B-4A3E-86B5-EA2E4C720735",
-"x" : 7239,
+"x" : 7491,
 "width" : 300,
-"y" : -232
+"y" : -162
 },
 "includeBackgroundColorInInstance" : false,
 "isFlippedHorizontal" : false,
@@ -20515,7 +19682,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 4,
+"changeIdentifier" : 67,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -20530,7 +19697,7 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
 "nameIsFixed" : false,
 "isVisible" : true,
@@ -20564,7 +19731,7 @@
 ]
 },
 "frame" : {
-"x" : 7239,
+"x" : 7081,
 "y" : -87,
 "_class" : "rect",
 "constrainProportions" : false,
@@ -23578,7 +22745,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 243,
+"changeIdentifier" : 372,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -23593,7 +22760,7 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
 "nameIsFixed" : false,
 "isVisible" : true,
@@ -23628,7 +22795,7 @@
 },
 "frame" : {
 "x" : 8189,
-"y" : -230,
+"y" : -525,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 40,
@@ -23702,9 +22869,9 @@
 "height" : 16,
 "constrainProportions" : false,
 "do_objectID" : "C997DD8D-F91A-43C6-91E3-EC8570569655",
-"x" : 117,
+"x" : 121,
 "width" : 58,
-"y" : 13
+"y" : 12
 },
 "do_objectID" : "F45C0A8D-B162-48AA-A4EA-881E6F47EEAD",
 "layerListExpandedType" : 0,
@@ -23916,7 +23083,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 199,
+"changeIdentifier" : 249,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -23931,9 +23098,9 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
-"nameIsFixed" : false,
+"nameIsFixed" : true,
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
@@ -23954,7 +23121,7 @@
 
 ]
 },
-"name" : "Button\/@outlined-large-red",
+"name" : "button\/@border-large-red",
 "resizingType" : 0,
 "do_objectID" : "B93F6D11-A11F-4B6D-A8DA-AFD0FE780046",
 "horizontalRulerData" : {
@@ -23965,8 +23132,8 @@
 ]
 },
 "frame" : {
-"x" : 7889,
-"y" : 134,
+"x" : 7491,
+"y" : -347,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 40,
@@ -24276,9 +23443,9 @@
 "height" : 16,
 "constrainProportions" : false,
 "do_objectID" : "2408B244-ED49-4019-BF9E-2DC1D5B9A84E",
-"x" : 67,
+"x" : 71,
 "width" : 58,
-"y" : 13
+"y" : 12
 },
 "do_objectID" : "A2A0DBE8-38D1-43B7-A934-AA88645B60B1",
 "layerListExpandedType" : 0,
@@ -24371,7 +23538,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 333,
+"changeIdentifier" : 443,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -24386,9 +23553,9 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
-"nameIsFixed" : false,
+"nameIsFixed" : true,
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
@@ -24409,7 +23576,7 @@
 
 ]
 },
-"name" : "Button\/@outlined-medium-red",
+"name" : "button\/@border-medium-red",
 "resizingType" : 0,
 "do_objectID" : "C35CEABF-F47A-42D5-9C3D-437C400C4268",
 "horizontalRulerData" : {
@@ -24420,8 +23587,8 @@
 ]
 },
 "frame" : {
-"x" : 7889,
-"y" : -7,
+"x" : 7891,
+"y" : -347,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 40,
@@ -24601,7 +23768,7 @@
 "fillType" : 0,
 "_class" : "border",
 "isEnabled" : true,
-"position" : 1,
+"position" : 2,
 "color" : {
 "red" : 0.92156862745098034,
 "_class" : "color",
@@ -24754,8 +23921,8 @@
 },
 "glyphBounds" : "{{1, 2}, {52, 12}}",
 "frame" : {
-"x" : 18,
-"y" : 13,
+"x" : 21,
+"y" : 12,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 16,
@@ -24869,7 +24036,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 18,
+"changeIdentifier" : 127,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -24907,7 +24074,7 @@
 
 ]
 },
-"name" : "Button\/@small-outlined-red",
+"name" : "button\/@border-small-red",
 "resizingType" : 0,
 "do_objectID" : "3293C26C-5063-4F5F-A680-6FE8B6982139",
 "horizontalRulerData" : {
@@ -24918,8 +24085,8 @@
 ]
 },
 "frame" : {
-"x" : 8189,
-"y" : -6,
+"x" : 8191,
+"y" : -347,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 41,
@@ -25184,9 +24351,9 @@
 "height" : 39,
 "constrainProportions" : false,
 "do_objectID" : "DF664B93-543F-4CE2-BEF0-017FB61D1886",
-"x" : 33,
+"x" : 31,
 "width" : 100,
-"y" : 20
+"y" : 21
 },
 "do_objectID" : "9F5CDBE0-B97E-490C-ACB2-F2D971A4EA8E",
 "layerListExpandedType" : 0,
@@ -25265,7 +24432,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 10,
+"changeIdentifier" : 14,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -25839,12 +25006,7 @@
 "base" : -239,
 "_class" : "rulerData",
 "guides" : [
-281,
-797,
-808,
-463,
-1005,
-1029
+
 ]
 },
 "resizesContent" : false,
@@ -25863,7 +25025,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "F0838C9D-810A-4D56-B696-743365C2544C",
 "x" : 0,
@@ -25904,7 +25066,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "B2BEF5B6-7D75-4FA3-8431-789D97099A4B",
 "x" : 0,
@@ -25945,7 +25107,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "BF0D852A-2889-49C3-AE1C-9E811943A09E",
 "x" : 0,
@@ -25979,7 +25141,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "0827C2E9-0057-4AC6-92C0-F4D2800F9BC4",
 "x" : 0,
@@ -26325,7 +25487,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0, 0}",
 "point" : "{0, 0}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{0, 0}",
 "hasCurveFrom" : false
 },
@@ -26335,7 +25497,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{1, 0}",
 "point" : "{1, 0}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{1, 0}",
 "hasCurveFrom" : false
 },
@@ -26345,7 +25507,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{1, 1}",
 "point" : "{1, 1}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{1, 1}",
 "hasCurveFrom" : false
 },
@@ -26355,12 +25517,12 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0, 1}",
 "point" : "{0, 1}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{0, 1}",
 "hasCurveFrom" : false
 }
 ],
-"fixedRadius" : 1,
+"fixedRadius" : 0,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
 "shouldBreakMaskChain" : false,
@@ -26724,7 +25886,7 @@
 "do_objectID" : "EB4D8AD2-D577-42D0-959D-C9BF2CC539A0",
 "x" : 15,
 "width" : 85,
-"y" : 123
+"y" : 115
 },
 "do_objectID" : "3B75AB3A-8945-4760-AD4B-582B7995A615",
 "layerListExpandedType" : 0,
@@ -26849,7 +26011,7 @@
 "do_objectID" : "604553CB-FEE0-494B-BB04-67A5FD2ECBE1",
 "x" : 15,
 "width" : 112,
-"y" : 151
+"y" : 143
 },
 "do_objectID" : "0D8980AF-505A-4CF9-8EB5-57C8FC25F87E",
 "layerListExpandedType" : 0,
@@ -26974,7 +26136,7 @@
 "do_objectID" : "ABB8DCE4-64C9-4A4E-892F-9C0D1C99D538",
 "x" : 15,
 "width" : 131,
-"y" : 179
+"y" : 171
 },
 "do_objectID" : "3A871092-D5D3-4AB6-9D37-101FF327356F",
 "layerListExpandedType" : 0,
@@ -27369,7 +26531,7 @@
 "rotation" : 0,
 "frame" : {
 "x" : 288,
-"y" : 212,
+"y" : 204,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 40,
@@ -27773,7 +26935,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 2925,
+"changeIdentifier" : 4836,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -27824,8 +26986,7 @@
 "base" : -410,
 "_class" : "rulerData",
 "guides" : [
-387,
-403
+
 ]
 },
 "frame" : {
@@ -27833,7 +26994,7 @@
 "y" : -527,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 276,
+"height" : 259,
 "width" : 403
 },
 "includeBackgroundColorInInstance" : false,
@@ -27856,19 +27017,7 @@
 "base" : 100,
 "_class" : "rulerData",
 "guides" : [
-311,
-328,
-328,
-328,
-414,
--460,
--448,
--261,
--235,
--860,
--843,
-112,
-152
+
 ]
 },
 "resizesContent" : false,
@@ -27889,7 +27038,7 @@
 "y" : 0,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 276,
+"height" : 259,
 "width" : 403
 },
 "do_objectID" : "640AA89C-295A-4739-8F17-A63B4122561F",
@@ -27927,7 +27076,7 @@
 "y" : 0,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 276,
+"height" : 259,
 "width" : 403
 },
 "do_objectID" : "AEAC595A-3E94-4A46-9BC0-67B5D63C2A79",
@@ -27963,7 +27112,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "6FD43191-3E85-429D-AB94-D46206D9B66C",
 "x" : 0,
@@ -28062,7 +27211,7 @@
 "y" : 0,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 276,
+"height" : 259,
 "width" : 403
 },
 "do_objectID" : "BE2E3755-4742-46F0-A4D6-0551EC8DC342",
@@ -28092,7 +27241,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "21077028-5BB5-4493-A598-86309EC4F762",
 "x" : 0,
@@ -28325,7 +27474,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "A9C9B648-0CE4-4841-A9A8-20D2306A5A06",
 "x" : 0,
@@ -28366,7 +27515,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "712F5840-0B4F-4017-A3F4-140E8DB019EF",
 "x" : 0,
@@ -28407,7 +27556,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "5791F85B-0244-4DAD-B741-EDF17A2D31A2",
 "x" : 0,
@@ -28441,7 +27590,7 @@
 "rotation" : 0,
 "frame" : {
 "_class" : "rect",
-"height" : 276,
+"height" : 259,
 "constrainProportions" : false,
 "do_objectID" : "E4197F2B-B933-4FCE-A526-92CEB78023BF",
 "x" : 0,
@@ -28787,7 +27936,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0, 0}",
 "point" : "{0, 0}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{0, 0}",
 "hasCurveFrom" : false
 },
@@ -28797,7 +27946,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{1, 0}",
 "point" : "{1, 0}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{1, 0}",
 "hasCurveFrom" : false
 },
@@ -28807,7 +27956,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{1, 1}",
 "point" : "{1, 1}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{1, 1}",
 "hasCurveFrom" : false
 },
@@ -28817,12 +27966,12 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0, 1}",
 "point" : "{0, 1}",
-"cornerRadius" : 1,
+"cornerRadius" : 0,
 "curveTo" : "{0, 1}",
 "hasCurveFrom" : false
 }
 ],
-"fixedRadius" : 1,
+"fixedRadius" : 0,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
 "shouldBreakMaskChain" : false,
@@ -29238,7 +28387,7 @@
 "do_objectID" : "7D0F1BD0-F71C-4B3D-8D27-5213342448F8",
 "x" : 8,
 "width" : 199,
-"y" : 28
+"y" : 27
 },
 "do_objectID" : "8D0D1D44-6D25-47A0-8447-1E6A563978E7",
 "layerListExpandedType" : 0,
@@ -29350,7 +28499,7 @@
 "do_objectID" : "CCCECC27-8EE3-4C58-8099-F1F0F994402C",
 "x" : 0,
 "width" : 403,
-"y" : 149
+"y" : 141
 },
 "do_objectID" : "7B0AD691-5266-4043-8145-139912D926F2",
 "hasClickThrough" : false,
@@ -29574,7 +28723,7 @@
 "do_objectID" : "01F16CE3-548C-46E2-A3F9-88A7E9CA0DD8",
 "x" : 15,
 "width" : 85,
-"y" : 123
+"y" : 115
 },
 "do_objectID" : "BA0AD940-413C-43E7-A494-89A80699FD93",
 "layerListExpandedType" : 0,
@@ -29699,7 +28848,7 @@
 "do_objectID" : "91D5BC2E-691D-4AA4-B9A7-47204B644FD0",
 "x" : 15,
 "width" : 112,
-"y" : 151
+"y" : 143
 },
 "do_objectID" : "65311838-3768-4839-A90A-41530F276FE0",
 "layerListExpandedType" : 0,
@@ -29824,7 +28973,7 @@
 "do_objectID" : "C701DCC4-4893-476E-AD22-0AF674EDF61A",
 "x" : 15,
 "width" : 131,
-"y" : 179
+"y" : 171
 },
 "do_objectID" : "E1AB1C67-0F08-459D-A4C0-C4AB86FDC7CE",
 "layerListExpandedType" : 0,
@@ -30219,7 +29368,7 @@
 "rotation" : 0,
 "frame" : {
 "x" : 288,
-"y" : 212,
+"y" : 204,
 "_class" : "rect",
 "constrainProportions" : false,
 "height" : 40,
@@ -30441,7 +29590,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 3546,
+"changeIdentifier" : 4808,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "_class" : "symbolMaster",
@@ -30486,9 +29635,7 @@
 "base" : -387,
 "_class" : "rulerData",
 "guides" : [
-387,
-675,
-775
+
 ]
 },
 "frame" : {
@@ -30496,7 +29643,7 @@
 "y" : -11,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 276,
+"height" : 259,
 "width" : 403
 },
 "includeBackgroundColorInInstance" : false,
@@ -30512,18 +29659,966 @@
 "resizingConstraint" : 63
 },
 {
+"symbolID" : "E124E88D-3486-4E97-A3F6-83859588E2BF",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "9A34531F-8264-43CA-90C7-8FE1BDEF1EA6",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"constrainProportions" : false,
+"do_objectID" : "5E0F3E42-EDB8-47A8-AB9E-BE206FBD6D7B",
+"x" : 0,
+"width" : 100,
+"y" : 0
+},
+"do_objectID" : "C94F7FAE-B9C4-499F-9218-D1CC51DEA9F4",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "35AE537A-2379-4DAA-BF10-7404BDAAF317",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 2 Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "C8C978F8-262C-43DF-88DF-CB2787EAF6D1",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"constrainProportions" : false,
+"do_objectID" : "3CACD3E5-0BA9-4EF6-883E-14400F05707A",
+"x" : 0,
+"width" : 100,
+"y" : 0
+},
+"do_objectID" : "9E80B54C-4A3F-4771-A5B0-7029F3BA9F85",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "A7D8CBAF-4845-4685-8DEC-0AB211BBB94C",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group Copy 2",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
 "isFlippedHorizontal" : false,
 "hasConvertedToNewRoundCorners" : true,
 "rotation" : 0,
 "frame" : {
-"x" : 14053,
-"y" : -597,
+"_class" : "rect",
+"height" : 40,
+"constrainProportions" : false,
+"do_objectID" : "B18ED029-DB08-4A08-AE80-3DF12909C8DB",
+"x" : 0,
+"width" : 100,
+"y" : 0
+},
+"do_objectID" : "80F8376B-B12D-41FC-AB20-465EA92C0136",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "ECD6FB9B-4C22-4981-AA51-1D0457BFE3C8",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0.098039215686274495,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588269
+}
+}
+],
+"do_objectID" : "13C7CF63-82B8-4BA1-8AC5-1F904EC1034D",
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+},
+"kViewTypeKey" : ""
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "7ADAFFA6-3A62-43FD-B38F-E88789945EB0",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "68A7BC98-2AB0-4E86-913A-765703AFA720",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"_class" : "rect",
+"height" : 16,
+"constrainProportions" : false,
+"do_objectID" : "8CAA4EA3-31EB-4DB4-9BB1-F38FA88BD823",
+"x" : 21,
+"width" : 58,
+"y" : 12
+},
+"do_objectID" : "77F3F744-FDE4-4DCF-95AD-1D2F81ECC265",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "6CC2B951-BAA2-463D-ACC4-76748CBA9FA6",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 15",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "Button\/@Blue-small-outline",
+"resizingType" : 0,
+"do_objectID" : "2919D301-53E0-424F-9B3B-4F036C4B5EFA",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 14499,
+"y" : -527,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 15,
-"width" : 403
+"height" : 40,
+"width" : 100
 },
-"do_objectID" : "3125BAE3-4125-4242-9ECB-7A731AB9C30C",
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "36832CE7-B38F-43B2-A09C-ABC5B7D9A51D",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "7D8A30BE-191B-41C5-81BA-52A586EF31D6",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"constrainProportions" : false,
+"do_objectID" : "7E35A4DC-5C9D-4C4D-BAA2-0493EE6E6BED",
+"x" : 0,
+"width" : 200,
+"y" : 0
+},
+"do_objectID" : "22C29FE6-CCA4-4FFC-8A93-9F774D91C818",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "D412E939-B7A7-4635-92EA-01DE38BDF7AB",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 3 Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "ABB58D8E-C56F-42DB-9BC9-A360C80124F3",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"constrainProportions" : false,
+"do_objectID" : "48918DEA-6CB6-44CF-968D-3FB909E3255A",
+"x" : 0,
+"width" : 200,
+"y" : 0
+},
+"do_objectID" : "A44B14F3-B697-4AC0-AAE5-89E5CA7D398D",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "7CF5DB00-8E22-43A0-AE08-CFC9F24CED64",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 40,
+"constrainProportions" : false,
+"do_objectID" : "30D98405-6C7F-4F80-ABFC-ECAAC3617EEC",
+"x" : 0,
+"width" : 200,
+"y" : 0
+},
+"do_objectID" : "F1301805-9A93-45FB-922B-C2A032E863F7",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "DD2292BE-D4A6-40C5-A030-C7B4BBB6114F",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+}
+}
+],
+"do_objectID" : "27195C4F-7233-4703-9157-CD3FC4B88B6B",
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+},
+"kViewTypeKey" : ""
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "E61DB533-7D31-4BA2-9D56-F9196B421BA7",
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"do_objectID" : "09F3DB75-3F2E-459E-8C86-CBE4DDCAFFCE",
+"_class" : "textStyle",
+"verticalAlignment" : 0,
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"_class" : "rect",
+"height" : 16,
+"constrainProportions" : false,
+"do_objectID" : "252CCBC5-81F1-4691-9B50-126D9B70CEF6",
+"x" : 71,
+"width" : 58,
+"y" : 12
+},
+"do_objectID" : "80CCB8DB-83D4-4766-89E6-874FA423008D",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "2AA6E7DD-9129-48FF-9447-47063FB95E55",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 14",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 5,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "Button\/@Blue-medium-outline",
+"resizingType" : 0,
+"do_objectID" : "60BB764F-75C9-4234-AAF7-5B7066F7AD62",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 14699,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "11A124E5-93CB-4BF2-BFE5-57002D7D9B0B",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "C7820F40-8462-4B44-8464-1774A83CA35A",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 1,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@large-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "35B3034D-8220-490C-82B3-F4E19FEED2B4",
 "layerListExpandedType" : 0,
 "exportOptions" : {
 "shouldTrim" : false,
@@ -30560,11 +30655,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.84699999999999998,
+"red" : 0,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.84699999999999998,
-"green" : 0.84699999999999998
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -30601,7 +30696,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0, 0}",
 "point" : "{0, 0}",
-"cornerRadius" : 0,
+"cornerRadius" : 2,
 "curveTo" : "{0, 0}",
 "hasCurveFrom" : false
 },
@@ -30611,7 +30706,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{1, 0}",
 "point" : "{1, 0}",
-"cornerRadius" : 0,
+"cornerRadius" : 2,
 "curveTo" : "{1, 0}",
 "hasCurveFrom" : false
 },
@@ -30621,7 +30716,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{1, 1}",
 "point" : "{1, 1}",
-"cornerRadius" : 0,
+"cornerRadius" : 2,
 "curveTo" : "{1, 1}",
 "hasCurveFrom" : false
 },
@@ -30631,17 +30726,7644 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0, 1}",
 "point" : "{0, 1}",
-"cornerRadius" : 0,
+"cornerRadius" : 2,
 "curveTo" : "{0, 1}",
 "hasCurveFrom" : false
 }
 ],
-"fixedRadius" : 0,
+"fixedRadius" : 2,
 "pointRadiusBehaviour" : 1,
 "isFixedToViewport" : false,
 "shouldBreakMaskChain" : false,
 "_class" : "rectangle",
 "booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 121,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "A4098C80-5C60-46DA-8293-C27794A4BDAE",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 3",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 274,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@large-blue",
+"resizingType" : 0,
+"do_objectID" : "4E50BC53-3BD4-4D32-93BB-345F286BF2B5",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 7491,
+"y" : -532,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "C8682A7D-06AF-4AB0-A2B8-411461A51A52",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "84060CDA-FA26-452D-BD9F-F4010FFD0212",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "C37FC9F7-0340-4061-9D68-D6B607902F3E",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 62,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 76
+},
+"do_objectID" : "E37BD54F-EA5B-4106-9794-378C7E288946",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 6",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Linearicons",
+"size" : 12
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : -0.099999930000000001,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{2, 0}, {7, 12}}",
+"frame" : {
+"x" : 64,
+"y" : 2,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 12,
+"width" : 12
+},
+"do_objectID" : "A438481F-3AB2-4835-BB1A-57D2D642FCA7",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "chevron-right",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 13,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Linearicons",
+"size" : 12
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : -0.099999930000000001,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "chevron-right"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "52FE57D5-4CFB-45E4-BF7D-D842E9329B5C",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@medium-blue",
+"resizingType" : 0,
+"do_objectID" : "BEAB1274-3D62-4EE8-8454-79F690B27F02",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 14999,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "49C77F34-938D-46CA-BE93-9AEE2377F7EC",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "287FF05B-4E77-4E5A-B63A-8A8E0B39EFFB",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "48537F89-20B6-4697-82AD-61873122D4FE",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "1AAD10A8-825A-4171-B2BB-D9CE738B6F28",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "F4BD2394-9D8E-45C4-B333-F25EC21E4D5F",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 25,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "2E8AB1EC-0DDC-4DEA-8F53-B759E335F56D",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 7,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@small-blue",
+"resizingType" : 0,
+"do_objectID" : "C0347A21-30B1-4047-9008-2999528A4652",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 15299,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "F860CE23-BBB3-4BCE-99B0-E872E84A5E7C",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "71982562-7C79-4553-9616-68391AA979B2",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 5",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "E6166906-AEDF-4489-9CD1-A6E63867150F",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button\/@tall-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "47F872C7-E954-4012-8123-3BEC4A315633",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.1803921568627451,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.64313725490196072,
+"green" : 0.42745098039215679
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 0}",
+"point" : "{0.99999999999999756, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 1}",
+"point" : "{0.99999999999999756, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{19, 3}, {61, 13}}",
+"frame" : {
+"x" : 31,
+"y" : 21,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 39,
+"width" : 100
+},
+"do_objectID" : "97F9A977-3C2C-4F0A-9057-314DEFD3AC56",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 0
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@tall-blue",
+"resizingType" : 0,
+"do_objectID" : "1258E723-E137-4B46-87D9-65A659581324",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 12813,
+"y" : 193,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "03A23E90-B978-4168-8E8E-D46D2D75B786",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "14B49EAF-5CC2-4251-B583-4A583AB3FD0B",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@large-blue 2",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "1A105F6E-8A8F-490F-A420-9534DB4ED598",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 1,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@large-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "59C700FA-AA05-4B98-9F64-331A4F90F5A0",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92156862745098034,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1647058823529412,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 121,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "D078C650-BA37-4F3C-9961-125E1EC2480E",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 3",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/large-red",
+"resizingType" : 0,
+"do_objectID" : "1D088E22-0246-4BB0-9302-CD95808405A1",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 7239,
+"y" : 513,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "61695B96-054C-4C73-8308-D7B5B5A5FA16",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "7F4BF51E-A2A0-48CE-8C5C-1DE956F43673",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 6",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "66F14892-8623-45BE-996C-DDCA6F76FF07",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "45BC22A4-0C14-4870-BBD0-450C4A336F7A",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92156862745098034,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1647058823529412,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 71,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "B23F1E61-2457-46D2-9716-5C69A14000D9",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@medium-red",
+"resizingType" : 0,
+"do_objectID" : "32AEFCAE-7861-4723-B7FD-8E3E40D9B645",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 15499,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "710F9953-6DDB-414A-84AD-92CF8431076B",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "DEC8A884-ED04-4B5E-80D7-63BB2405D682",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "50E079F7-7BD4-4C98-A47C-E70134F1CEA6",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "FFB6E777-CAAF-4E1E-96A6-5F7AD8A6E5CC",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "C0278BCE-2DC6-460E-907B-A22FDF91B752",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92156862745098034,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1647058823529412,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 8",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 25,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "9F5160ED-8969-4FA2-BBE2-98E2866BFDCD",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/small-red",
+"resizingType" : 0,
+"do_objectID" : "94C4F2AA-256D-454E-AF7E-934B7F0AEE7D",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 15799,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "3E500AEF-A3E4-49B4-894E-A2752CF07C58",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "9CB31488-D7A2-4B46-B024-378851A4F8D7",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 6",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "84C7802E-7319-4729-8E8E-76D460D43CAD",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button\/@tall-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "63730790-CD8C-4882-97EB-677218BC0B4D",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.1803921568627451,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.64313725490196072,
+"green" : 0.42745098039215679
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92156862745098034,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1647058823529412,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 0}",
+"point" : "{0.99999999999999756, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 1}",
+"point" : "{0.99999999999999756, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{19, 3}, {61, 13}}",
+"frame" : {
+"x" : 31,
+"y" : 21,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 39,
+"width" : 100
+},
+"do_objectID" : "FC6A6FF0-DD1D-4073-8C8A-0A1D2921E2DF",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 0
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@tall-red",
+"resizingType" : 0,
+"do_objectID" : "E9167DE6-ADB4-4A23-A4D1-13F16641C610",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 12813,
+"y" : 373,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "8B795854-50F3-42C8-AB22-ECC5341CB418",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "3D768DFB-A077-4AC9-9D47-44C07539D298",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Group 6",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "35D4CFB0-625B-45DA-AAED-29D5B407F289",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button\/@tall-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "30F005D2-C336-49D6-A4C7-DD76B3C20B9C",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.1803921568627451,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.64313725490196072,
+"green" : 0.42745098039215679
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92156862745098034,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1647058823529412,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 0}",
+"point" : "{0.99999999999999756, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 1}",
+"point" : "{0.99999999999999756, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{19, 3}, {61, 13}}",
+"frame" : {
+"x" : 31,
+"y" : 21,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 39,
+"width" : 100
+},
+"do_objectID" : "E42D4B1E-E730-4726-9606-144EEC7B1AE3",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 0
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@tall-red",
+"resizingType" : 0,
+"do_objectID" : "C9D05297-B29D-4B52-B19E-CDBFA5AEFBFD",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 12813,
+"y" : 553,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "3C3674E4-8B73-43ED-A4F5-50404970EC8E",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "768A29AD-E10F-4C12-8ECA-E4AE0EB49152",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-medium-white",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "BD92BFD0-A897-408B-950F-67F7D3C2BF97",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 67,
+"y" : 13,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "BEEFBABB-3FDE-4D20-A13E-FF7E6125E23B",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 14",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 27,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-medium-white",
+"resizingType" : 0,
+"do_objectID" : "6B60E5A4-1B05-483D-8C6F-50BD00E2AF02",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 15999,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "6FA7E32C-DF4B-4E6E-8D17-3A8AC40015A4",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "87368D04-4497-4FAA-B47C-E0470D486E44",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 1,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-small-white",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"do_objectID" : "5F09992D-38E7-4486-AE73-C2F1109B18DA",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 3}, {60, 13}}",
+"frame" : {
+"x" : 18,
+"y" : 11,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 19,
+"width" : 66
+},
+"do_objectID" : "3B61205D-8A21-4A1A-B934-8F9A25929AC1",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 15",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-small-white",
+"resizingType" : 0,
+"do_objectID" : "B1DDBEBF-29E9-47B8-85D2-25D729CB1C0F",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 16299,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 100
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "34B205C3-F2CB-4207-BA84-E8E58E52F15D",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "5F516397-B243-4DD4-BDF5-7BE1F60A3240",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 1,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-tall-white",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "E3CE1F8A-7521-4AD3-92C4-8870F782A1AD",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.1803921568627451,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.64313725490196072,
+"green" : 0.42745098039215679
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 0}",
+"point" : "{0.99999999999999756, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 1}",
+"point" : "{0.99999999999999756, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{19, 3}, {61, 13}}",
+"frame" : {
+"x" : 31,
+"y" : 20,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 39,
+"width" : 100
+},
+"do_objectID" : "ABAF53C0-6430-4EE2-8A63-A201D101C379",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 0
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"kerning" : 0.14999999999999999,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-tall-white",
+"resizingType" : 0,
+"do_objectID" : "11A3761A-A8C8-4BA9-A35E-449B32C5E151",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 12813,
+"y" : 733,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "4F5713EC-0144-4833-A50D-CB9F2E9C7BD0",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "5112D0A6-C44F-44E4-8B67-DA0ED230C834",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-large-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 121,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "303E0542-7CB3-4AAC-8C21-112A09BE31C3",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+},
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "1A9F739A-793D-49EF-A5D9-A3561DEFF063",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-large-blue",
+"resizingType" : 0,
+"do_objectID" : "D1330EFB-4578-4633-8A18-3BA385AC18A9",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 7239,
+"y" : 653,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "07614903-6D7A-4EC2-86CA-A07AF798D73B",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "1BD579DE-8F5A-4ACE-AB66-97B088C04255",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 1,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-medium-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "2D70A4E8-31F7-48EC-AD52-95174FD40227",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 71,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "31083BFC-8D0B-49C6-83F3-B157CE52A917",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 14",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"textStyleVerticalAlignmentKey" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-medium-blue",
+"resizingType" : 0,
+"do_objectID" : "184476F2-01B8-4F70-977B-12DBE600BDB0",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 16499,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "A0AD66F2-0C9C-42ED-802B-FC2F57FB7628",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "597D7F0A-411A-4397-BED9-9362BB781A8C",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-tall-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "02BF5209-247F-427A-B299-59EED9FDBDC2",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button\/@tall-outlined-blue",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"do_objectID" : "F9BFBEDC-C9CE-414E-B471-E974B4D36E6C",
+"layerListExpandedType" : 1,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 1,
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.1803921568627451,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.64313725490196072,
+"green" : 0.42745098039215679
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 0}",
+"point" : "{0.99999999999999756, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.99999999999999756, 1}",
+"point" : "{0.99999999999999756, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0.99999999999999756, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"kerning" : 0.13125000000000001,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{23, 2}, {54, 12}}",
+"frame" : {
+"x" : 31,
+"y" : 21,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 39,
+"width" : 100
+},
+"do_objectID" : "3FEF52EC-662F-4E62-9DA6-C2342B5DF453",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 2,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 9",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 0
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+},
+"kerning" : 0.13125000000000001,
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 1,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 63,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-tall-blue",
+"resizingType" : 0,
+"do_objectID" : "205D625F-FD83-4AE7-BC90-5C9694EA5AF0",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 12813,
+"y" : 913,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 80,
+"width" : 161
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "5CDB8ED8-DFFE-466A-A6F5-9DE340DB6158",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "5ABB5C5E-E65A-4770-99FF-68AA48672942",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@medium-blue-onhover",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "1A701B9F-7B11-4012-ADF7-A7425EC3E259",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.27450980392156871,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.97647058823529409,
+"green" : 0.62745098039215685
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 18",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.94117647058823528,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.94117647058823528,
+"green" : 0.94117647058823528
+},
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"strikethroughStyle" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 70,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 61
+},
+"do_objectID" : "3F190816-546B-42F8-8C0A-1978CAC6A390",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 8,
+"_class" : "stringAttribute",
+"attributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.94117647058823528,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.94117647058823528,
+"green" : 0.94117647058823528
+},
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"strikethroughStyle" : 0,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+}
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button  "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@medium-blue-onhover",
+"resizingType" : 0,
+"do_objectID" : "12F016AD-229A-424B-931C-E61C516725A6",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 16799,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "E1C016F1-1A78-44A0-B12C-058C599AD0CD",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "251E097C-74DB-4D9A-8738-93BD88F2C931",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-white-onhover",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "DB0FF1DE-D140-4EC4-A2BE-94157EA4F222",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.81568627450980391,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.9882352941176471,
+"green" : 0.91764705882352937
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 15",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+},
+"strikethroughStyle" : 0,
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"textStyleVerticalAlignmentKey" : 0
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 73,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 55
+},
+"do_objectID" : "9A4D784F-A8C4-4D62-8444-6592363096DD",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 13",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 6,
+"_class" : "stringAttribute",
+"attributes" : {
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+},
+"strikethroughStyle" : 0,
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"textStyleVerticalAlignmentKey" : 0
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 9,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-white-onhover",
+"resizingType" : 0,
+"do_objectID" : "401A22F6-9461-4C33-8AFF-887F5BCBD03E",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 17099,
+"y" : -527,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "EC9EA130-9C7F-4C5D-814C-E395CC7E12A9",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "9163D8AD-BDAB-4886-8457-3CF30513D6D8",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 1,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@medium-red-onhover",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"do_objectID" : "E26D4E75-04E5-4BA3-8A0D-76F90B651289",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 7",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+},
+"strikethroughStyle" : 0,
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 71,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "A67308E4-7623-4BDF-B6F8-D9B1B3A47138",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 12",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+},
+"strikethroughStyle" : 0,
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.97227722406387329,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.99680107831954956,
+"green" : 0.9761778712272644
+},
+"textStyleVerticalAlignmentKey" : 0
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@medium-red-onhover",
+"resizingType" : 0,
+"do_objectID" : "85422EF1-86D6-492F-B304-D8750EDBBF71",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 11212,
+"y" : -86,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 200
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "F0836A74-24A4-4129-B295-3930BE24A9CA",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "6296B205-91A1-4097-9B81-A103422AD680",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"layerListExpandedType" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "button\/@border-large-blue-onhover",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"hasConvertedToNewRoundCorners" : true,
+"rotation" : 0,
+"frame" : {
+"x" : 0,
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"do_objectID" : "D883A24A-FE7D-4DB8-8B9B-3DFE849D97D0",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"edited" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.098039215686274508,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.7803921568627451,
+"green" : 0.52941176470588236
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.60392156862745094,
+"green" : 0.36862745098039218
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Rectangle Copy 3",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+
+}
+}
+},
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0}",
+"point" : "{0, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 1}",
+"point" : "{1, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{1, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 1}",
+"point" : "{0, 1}",
+"cornerRadius" : 2,
+"curveTo" : "{0, 1}",
+"hasCurveFrom" : false
+}
+],
+"fixedRadius" : 2,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"shouldBreakMaskChain" : false,
+"_class" : "rectangle",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+},
+"strikethroughStyle" : 0,
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"textStyleVerticalAlignmentKey" : 0
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"glyphBounds" : "{{1, 2}, {52, 12}}",
+"frame" : {
+"x" : 121,
+"y" : 12,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 16,
+"width" : 58
+},
+"do_objectID" : "16BEA3DB-3FB0-432A-B310-6C61CBAAE166",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"rotation" : 0,
+"dontSynchroniseWithSymbol" : false,
+"lineSpacingBehaviour" : 2,
+"textBehaviour" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Button Copy 11",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"userInfo" : {
+"com.animaapp.stc-sketch-plugin" : {
+"kModelPropertiesKey" : {
+"isAutoWidth" : 1
+}
+}
+},
+"isLocked" : false,
+"attributedString" : {
+"attributes" : [
+{
+"length" : 7,
+"_class" : "stringAttribute",
+"attributes" : {
+"underlineStyle" : 0,
+"MSAttributedStringTextTransformAttribute" : 1,
+"paragraphStyle" : {
+"_class" : "paragraphStyle"
+},
+"strikethroughStyle" : 0,
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"textStyleVerticalAlignmentKey" : 0
+},
+"location" : 0
+}
+],
+"_class" : "attributedString",
+"string" : "Button "
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "text",
+"booleanOperation" : -1,
+"resizingConstraint" : 47,
+"automaticallyDrawOnUnderlyingPath" : false
+}
+],
+"nameIsFixed" : true,
+"resizingType" : 0,
+"isLocked" : false,
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "group",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 4,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "button\/@border-large-blue-onhover",
+"resizingType" : 0,
+"do_objectID" : "5822C685-4872-4DAD-861F-BFA1BCBA62A9",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"x" : 7239,
+"y" : 793,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 40,
+"width" : 300
+},
+"includeBackgroundColorInInstance" : false,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 0,
 "resizingConstraint" : 63
 }
 ],

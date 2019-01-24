@@ -4,8 +4,6 @@
 {
 "do_objectID" : "F727D51D-9BCF-428A-9012-D1D7B84CD592",
 "value" : {
-"miterLimit" : 10,
-"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -26,7 +24,9 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-]
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Property"
@@ -34,8 +34,6 @@
 {
 "do_objectID" : "308C8086-E0C0-4A46-BA37-E0E7D8AE2043",
 "value" : {
-"miterLimit" : 10,
-"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -56,7 +54,9 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-]
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Size"
@@ -64,8 +64,6 @@
 {
 "do_objectID" : "FEEE8973-A8A1-4F05-974B-4CC1EA3C1677",
 "value" : {
-"miterLimit" : 10,
-"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -86,7 +84,9 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-]
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Spacing"
@@ -94,8 +94,6 @@
 {
 "do_objectID" : "DED3CB17-1CE1-4F43-ACD1-28F076A0937B",
 "value" : {
-"miterLimit" : 10,
-"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -116,7 +114,9 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-]
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Overlay"
@@ -124,11 +124,6 @@
 {
 "do_objectID" : "AEC1CA94-2A7F-4DA5-94FE-9121DC53842A",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
-"_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -150,7 +145,12 @@
 },
 "isEnabled" : false
 }
-]
+],
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "segmented control drop shadow "
@@ -275,6 +275,11 @@
 {
 "_ref_class" : "MSImmutablePage",
 "_class" : "MSJSONFileReference",
+"_ref" : "pages\/2ADE1A0F-A782-4167-B220-FD88CD15F38B"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
 "_ref" : "pages\/0B0816EF-7878-4546-89E0-B3EF4333794B"
 },
 {
@@ -307,9 +312,6 @@
 {
 "do_objectID" : "C592EE09-3921-4AE4-881A-6F749FA9372D",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -338,8 +340,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "H1"
@@ -347,9 +352,6 @@
 {
 "do_objectID" : "F3B4526C-AF71-41A5-978F-C87C1CFC88C4",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -378,8 +380,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "H2"
@@ -388,14 +393,7 @@
 "do_objectID" : "FF0B3DDA-F760-48AD-B62B-13D69A035B55",
 "value" : {
 "_class" : "style",
-"contextSettings" : {
-"opacity" : 0.90327380952380953,
-"_class" : "graphicsContextSettings",
-"blendMode" : 0
-},
-"endMarkerType" : 0,
-"startMarkerType" : 0,
-"windingRule" : 1,
+"miterLimit" : 10,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -424,7 +422,14 @@
 }
 }
 },
-"miterLimit" : 10
+"startMarkerType" : 0,
+"windingRule" : 1,
+"contextSettings" : {
+"opacity" : 0.90327380952380953,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "H3"
@@ -432,9 +437,6 @@
 {
 "do_objectID" : "890FB78D-C3A0-43DC-BA0B-77A5DF42C557",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -463,8 +465,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "H4"
@@ -472,9 +477,6 @@
 {
 "do_objectID" : "7FAC5F83-8BAB-4AE2-8B8F-8D6E2B222C3F",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -503,8 +505,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "H5"
@@ -512,9 +517,6 @@
 {
 "do_objectID" : "0FB34393-D670-408B-8A22-68248001495A",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -543,8 +545,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "H6"
@@ -552,9 +557,6 @@
 {
 "do_objectID" : "D6B1C782-D98C-4E60-8F30-775154F33D44",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -583,8 +585,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Paragraph"
@@ -592,9 +597,6 @@
 {
 "do_objectID" : "1F9B251F-E6A4-4FCD-B5B8-599DC002E09A",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -615,8 +617,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Property"
@@ -624,9 +629,6 @@
 {
 "do_objectID" : "955C4178-6B3F-4C23-95A9-0F99FEA527EA",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -647,8 +649,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Size"
@@ -656,19 +661,13 @@
 {
 "do_objectID" : "1014ECE2-A472-4222-B53D-8490F0D392DA",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
 "encodedAttributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "HelveticaNeue",
-"size" : 12
-},
-"_class" : "fontDescriptor"
+"paragraphStyle" : {
+"_class" : "paragraphStyle",
+"alignment" : 2
 },
 "MSAttributedStringColorAttribute" : {
 "red" : 1,
@@ -677,14 +676,20 @@
 "blue" : 1,
 "green" : 1
 },
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 2
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "HelveticaNeue",
+"size" : 12
+},
+"_class" : "fontDescriptor"
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Sketch Measure \/ Spacing"
@@ -692,9 +697,6 @@
 {
 "do_objectID" : "045ED83B-FE06-48E5-B922-08F2ECC891D9",
 "value" : {
-"startMarkerType" : 0,
-"endMarkerType" : 0,
-"windingRule" : 1,
 "textStyle" : {
 "verticalAlignment" : 0,
 "_class" : "textStyle",
@@ -723,8 +725,11 @@
 }
 }
 },
+"windingRule" : 1,
 "_class" : "style",
-"miterLimit" : 10
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
 },
 "_class" : "sharedStyle",
 "name" : "Button"
@@ -745,6 +750,11 @@
 "userInfo" : {
 "com.invisionlabs.sync" : {
 "metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+},
+"com.cloudblue.sketch.exporter" : {
+"remoteFolder" : "\"https:\/\/s3.amazonaws.com\/teachable-cdn\/Make%20Style%20Guide\"",
+"docPublishCompress" : "false",
+"mockupsVersion" : "\"3\""
 }
 }
 }

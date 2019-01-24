@@ -1,32 +1,23 @@
 {
-"B4D2D1A3-9474-467D-94F3-323E4E3C7ADA" : {
-"scrollOrigin" : "{-1674, -190}",
-"zoomValue" : 1
-},
+"SM3Configs" : "{\"scale\":1,\"units\":\"px\",\"format\":\"color-hex\",\"properties\":[\"color\"]}",
 "BE44ED7F-0BBE-4697-B753-2765E067232B" : {
 "scrollOrigin" : "{360, 137}",
 "zoomValue" : 0.5
 },
-"E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73" : {
-"scrollOrigin" : "{-8824, 682}",
-"zoomValue" : 2
-},
-"SMConfigs2" : "{\"scale\":\"1\",\"unit\":\"px\",\"colorFormat\":\"color-hex\",\"timestamp\":1547241287689,\"exportOption\":true,\"exportInfluenceRect\":false,\"order\":\"positive\",\"isHidden\":true,\"isLocked\":true,\"sizes\":{\"widthPlacement\":\"top\",\"heightPlacement\":\"right\"}}",
-"62993342-E91E-43C9-B9F0-9AE24D1A4A0E" : {
-"scrollOrigin" : "{-3665, 1459}",
-"zoomValue" : 0.5
-},
-"DCB84273-8297-495B-884F-533EF1C9EE2A" : {
-"scrollOrigin" : "{478, 384}",
-"zoomValue" : 1.803840877914952
-},
-"SM3Configs" : "{\"scale\":1,\"units\":\"px\",\"format\":\"color-hex\",\"properties\":[\"color\"]}",
 "0B0816EF-7878-4546-89E0-B3EF4333794B" : {
 "scrollOrigin" : "{851, 671}",
 "zoomValue" : 1
 },
+"SMConfigs2" : "{\"scale\":\"1\",\"unit\":\"px\",\"colorFormat\":\"color-hex\",\"timestamp\":1548271697528,\"exportOption\":true,\"exportInfluenceRect\":false,\"order\":\"positive\",\"isHidden\":true,\"isLocked\":true,\"sizes\":{\"widthPlacement\":\"top\",\"heightPlacement\":\"right\"}}",
+"62993342-E91E-43C9-B9F0-9AE24D1A4A0E" : {
+"scrollOrigin" : "{-3665, 1459}",
+"zoomValue" : 0.5
+},
 "document" : {
-"pageListHeight" : 212,
+"pageListHeight" : 344,
+"exportableLayerSelection" : [
+"EB9D4A40-64FF-483E-9719-0E3C5677DF76"
+],
 "cloudShare" : {
 "owner" : {
 "id" : "b881753c-9d54-4b1c-b913-643500d0aee5"
@@ -34,19 +25,35 @@
 "viewerCanUpdate" : 0,
 "id" : "2a901113-80c2-4fcf-9d24-36f99f53bfc1",
 "publicUrl" : "https:\/\/sketch.cloud\/s\/144on",
-"updatedAt" : "2019-01-15T00:47:55.473Z",
-"createdAt" : "2019-01-15T00:47:55.473Z",
+"updatedAt" : "2019-01-15T19:48:44.417Z",
+"createdAt" : "2019-01-15T19:48:44.417Z",
 "isPrivate" : 1,
 "shortId" : "144on"
 },
 "pageListCollapsed" : 0
 },
+"DCB84273-8297-495B-884F-533EF1C9EE2A" : {
+"scrollOrigin" : "{478, 384}",
+"zoomValue" : 1.803840877914952
+},
+"2ADE1A0F-A782-4167-B220-FD88CD15F38B" : {
+"scrollOrigin" : "{1101, 1349}",
+"zoomValue" : 1
+},
+"B4D2D1A3-9474-467D-94F3-323E4E3C7ADA" : {
+"scrollOrigin" : "{-1674, -190}",
+"zoomValue" : 1
+},
+"8F7B8E88-8DB7-4C3B-B9AA-612350ABEF61" : {
+"scrollOrigin" : "{-367, -170}",
+"zoomValue" : 1
+},
 "98A9881D-EF85-46C7-968E-BB1FF6D52E12" : {
 "scrollOrigin" : "{599, 289}",
 "zoomValue" : 0.01
 },
-"8F7B8E88-8DB7-4C3B-B9AA-612350ABEF61" : {
-"scrollOrigin" : "{-367, -170}",
+"E4B6F2FA-F3DE-475E-8ECE-69C5F18D5D73" : {
+"scrollOrigin" : "{-8824, 682}",
 "zoomValue" : 1
 }
 }
